@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PostgreSQL is now used instead of SQLite — no local .db file to track.
+# Data lives in the PostgreSQL database configured via the DB_* environment
+# variables (see .env.example). Tables are auto-created on startup by
+# init_db.py if they do not already exist.
+*.db
+*.sqlite3

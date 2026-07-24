@@ -1,0 +1,1195 @@
+Attendance,StudyHours,PreviousSGPA,SkillDevelopmentHours,SocialMediaHours,EnglishProficiency,Scholarship,CoCurricular,HealthIssues,FamilyIncome,CreditsCompleted,CurrentSemester,CurrentCGPA,PerformanceCategory
+90,3,6.7,2,5,Intermediate,Yes,Yes,No,25000,75,12,7.88,Average
+96,3,6.7,2,3,Basic,Yes,Yes,No,100000,36,4,7.88,Average
+80,3,6.7,1,3,Intermediate,No,No,No,50000,50,5,7.88,Average
+88,1,6.7,1,2,Intermediate,Yes,No,Yes,62488,36,4,7.88,Average
+80,3,6.7,1,2,Intermediate,Yes,No,Yes,50000,36,4,7.88,Average
+95,2,6.7,2,1,Intermediate,Yes,Yes,No,30000,36,4,7.88,Average
+80,2,6.7,6,2,Intermediate,Yes,No,Yes,20000,36,4,7.88,Average
+100,2,9.5,1,2,Basic,Yes,No,No,32500,35,4,9.1,Good
+90,3,6.7,3,2,Intermediate,Yes,No,No,20000,36,4,7.88,Average
+100,5,6.7,1,2,Intermediate,Yes,No,No,25000,36,4,7.88,Average
+90,3,6.7,1,3,Intermediate,Yes,Yes,No,50000,36,4,7.88,Average
+90,3,8.5,2,2,Basic,No,No,Yes,20000,35,4,8.82,Good
+100,1,6.7,2,1,Basic,No,No,No,50000,36,4,7.88,Average
+90,3,6.7,1,1,Intermediate,Yes,No,No,24000,36,4,7.88,Average
+97,2,6.7,2,1,Basic,No,No,No,70000,36,4,7.88,Average
+95,2,9.83,3,1,Basic,Yes,Yes,No,30000,35,4,9.72,Excellent
+95,5,6.7,2,1,Intermediate,Yes,Yes,No,40000,36,4,7.88,Average
+97,5,6.7,2,2,Basic,Yes,No,No,50000,36,4,7.88,Average
+70,1,7.75,2,3,Advance,Yes,No,No,62488,35,4,8.75,Good
+70,3,6.7,2,2,Intermediate,No,No,No,20000,36,4,7.88,Average
+96,3,9.52,1,2,Intermediate,Yes,Yes,No,30000,34,4,9.12,Good
+80,3,6.7,2,2,Intermediate,Yes,No,No,50000,36,4,7.88,Average
+98,2,6.7,2,2,Intermediate,Yes,Yes,No,20000,36,4,7.88,Average
+95,6,6.7,3,3,Intermediate,No,Yes,No,25000,36,4,7.88,Average
+85,1,9.72,2,1,Advance,Yes,Yes,Yes,35000,35,4,9.52,Excellent
+97,3,9.48,2,1,Basic,No,No,No,50000,39,4,9.55,Excellent
+95,4,6.7,2,3,Basic,No,Yes,No,4000,36,4,7.88,Average
+70,2,8.88,4,4,Intermediate,Yes,Yes,Yes,40000,35,4,8.7,Good
+95,2,8.2,2,2,Intermediate,Yes,Yes,Yes,8000,36,4,8.3,Good
+100,3,6.7,3,2,Intermediate,Yes,Yes,No,47972,36,4,7.88,Average
+90,3,6.7,2,4,Intermediate,Yes,No,No,30000,11,2,7.88,Average
+95,4,6.7,3,2,Intermediate,Yes,Yes,No,90000,11,2,7.88,Average
+90,5,6.7,1,2,Intermediate,No,No,No,30000,11,2,7.88,Average
+100,8,6.7,2,2,Intermediate,Yes,Yes,No,37000,36,4,7.88,Average
+95,1,6.7,1,2,Basic,Yes,Yes,No,35000,11,2,7.88,Average
+80,3,6.7,2,1,Intermediate,Yes,Yes,No,50000,11,2,7.88,Average
+99,2,6.7,2,3,Basic,Yes,No,No,30000,11,2,7.88,Average
+70,2,6.7,4,5,Basic,No,No,Yes,20000,126,11,7.88,Average
+100,4,6.7,1,4,Intermediate,Yes,No,No,80000,11,2,7.88,Average
+98,5,6.7,2,3,Advance,Yes,Yes,No,40000,11,2,7.88,Average
+100,5,6.7,3,6,Basic,Yes,No,No,20000,11,2,7.88,Average
+97,3,6.7,2,2,Basic,No,Yes,No,10000,11,2,7.88,Average
+98,3,6.7,4,1,Basic,Yes,No,No,10000,11,2,7.88,Average
+90,5,6.7,1,6,Intermediate,Yes,Yes,No,40000,11,2,7.88,Average
+90,4,6.7,2,2,Intermediate,Yes,Yes,No,40000,11,2,7.88,Average
+95,4,6.7,3,1,Basic,Yes,No,No,25000,11,2,7.88,Average
+95,5,6.7,1,3,Intermediate,Yes,Yes,No,20000,11,2,7.88,Average
+90,1,6.7,2,1,Intermediate,Yes,Yes,No,22000,11,2,7.88,Average
+99,2,9.45,1,3,Basic,No,No,No,200000,36,4,9.7,Excellent
+90,7,6.7,2,5,Basic,Yes,No,Yes,39000,11,2,7.88,Average
+90,2,6.7,1,3,Intermediate,Yes,No,No,30000,11,2,7.88,Average
+88,2,10.0,2,2,Intermediate,Yes,Yes,No,20000,11,2,10.0,Excellent
+95,5,6.7,2,1,Intermediate,Yes,Yes,No,30000,11,2,7.88,Average
+100,3,9.75,1,2,Intermediate,Yes,No,No,60000,12,2,9.75,Excellent
+100,2,6.7,2,1,Basic,Yes,No,No,40000,11,2,7.88,Average
+80,1,6.7,2,7,Basic,No,Yes,Yes,32000,11,2,7.88,Average
+100,1,6.7,1,2,Intermediate,Yes,No,No,30000,11,2,7.88,Average
+98,1,6.7,2,1,Intermediate,Yes,Yes,No,40000,11,2,7.88,Average
+85,4,6.7,2,3,Intermediate,Yes,No,No,30000,11,2,7.88,Average
+99,2,6.7,2,4,Intermediate,Yes,Yes,No,40000,11,2,7.88,Average
+75,1,6.7,1,4,Intermediate,Yes,No,No,35000,11,2,7.88,Average
+85,3,6.7,2,4,Intermediate,Yes,No,No,40000,36,4,7.88,Average
+100,1,6.7,2,2,Intermediate,No,Yes,No,15000,126,11,7.88,Average
+95,3,9.6,1,5,Intermediate,Yes,No,No,23000,80,8,9.5,Excellent
+95,3,6.7,2,2,Advance,No,Yes,No,62488,88,8,7.88,Average
+70,2,8.28,2,4,Intermediate,Yes,Yes,No,350000,132,12,8.8,Good
+100,3,6.7,2,4,Intermediate,No,No,No,50000,88,8,7.88,Average
+95,3,6.7,1,2,Advance,Yes,No,No,40000,11,2,7.88,Average
+100,3,6.7,5,2,Intermediate,No,No,No,35000,11,2,7.88,Average
+80,3,6.7,2,2,Basic,Yes,No,No,35000,88,8,7.88,Average
+100,8,6.7,2,1,Basic,No,Yes,No,30000,11,2,7.88,Average
+90,2,6.7,1,1,Intermediate,Yes,No,No,40000,88,8,7.88,Average
+95,4,6.7,1,1,Intermediate,Yes,Yes,No,35000,11,2,7.88,Average
+95,1,6.7,2,2,Intermediate,No,No,Yes,40000,88,8,7.88,Average
+80,2,6.7,1,3,Intermediate,No,Yes,No,30000,136,12,7.88,Average
+100,3,6.7,8,1,Intermediate,No,Yes,No,35000,88,8,7.88,Average
+95,4,6.7,2,2,Basic,No,No,No,25000,88,8,7.88,Average
+99,5,6.7,2,2,Basic,Yes,Yes,Yes,600000,11,2,7.88,Average
+100,4,6.7,2,4,Basic,Yes,No,No,35000,11,2,7.88,Average
+80,1,8.73,2,5,Intermediate,Yes,No,No,40000,71,8,9.18,Good
+100,4,7.68,2,2,Intermediate,No,No,No,20000,85,8,6.85,At Risk
+85,3,6.7,1,8,Intermediate,No,No,No,20000,88,8,7.88,Average
+95,3,9.4,1,1,Intermediate,No,No,No,92000,83,8,8.75,Good
+98,3,6.75,2,1,Intermediate,No,No,No,35000,80,8,7.0,Average
+95,2,6.7,2,2,Intermediate,No,No,No,20000,88,8,7.88,Average
+99,1,6.7,2,1,Intermediate,No,Yes,No,15000,88,8,7.88,Average
+96,2,6.7,2,1,Intermediate,Yes,Yes,No,30000,88,8,7.88,Average
+95,3,9.12,2,1,Intermediate,No,Yes,No,45000,11,2,7.88,Average
+100,1,6.7,1,15,Intermediate,No,No,No,90000,88,8,7.88,Average
+80,2,6.7,1,2,Basic,No,No,No,35000,88,8,7.88,Average
+95,2,6.7,3,3,Basic,Yes,No,No,20000,88,8,7.88,Average
+88,4,6.7,2,2,Intermediate,Yes,Yes,No,100000,11,2,7.88,Average
+100,6,9.6,2,3,Intermediate,Yes,Yes,No,30000,73,11,7.75,Average
+80,2,6.7,2,6,Intermediate,No,No,No,70000,11,2,7.88,Average
+90,2,6.7,4,4,Basic,No,No,No,40000,113,10,7.88,Average
+100,2,6.7,2,1,Basic,Yes,Yes,No,10000,11,2,7.88,Average
+82,2,6.7,4,2,Advance,Yes,No,No,40000,36,4,7.88,Average
+90,1,6.7,0,1,Intermediate,Yes,No,No,20000,36,4,7.88,Average
+98,3,6.7,8,1,Intermediate,No,Yes,No,22000,50,5,7.88,Average
+85,3,6.7,2,1,Intermediate,No,No,Yes,45000,126,11,7.88,Average
+90,4,6.7,1,3,Intermediate,No,No,No,40000,88,8,7.88,Average
+90,2,6.7,1,5,Intermediate,Yes,No,Yes,50000,11,2,7.88,Average
+90,3,6.7,2,4,Intermediate,Yes,No,No,50000,88,8,7.88,Average
+88,2,6.7,1,6,Basic,No,No,No,30000,112,13,7.88,Average
+95,3,6.7,5,1,Basic,Yes,No,No,40000,11,2,7.88,Average
+95,1,8.75,1,1,Intermediate,Yes,Yes,No,30000,35,4,8.95,Good
+90,4,8.45,2,1,Intermediate,Yes,Yes,No,40000,27,4,9.55,Excellent
+90,2,6.7,1,1,Intermediate,No,No,No,30000,88,8,7.88,Average
+88,9,6.7,1,1,Intermediate,No,No,No,62488,113,10,7.88,Average
+100,3,6.7,3,2,Basic,Yes,Yes,No,35000,11,2,7.88,Average
+80,1,6.7,2,10,Basic,Yes,No,No,100000,36,4,7.88,Average
+80,3,6.7,3,3,Intermediate,Yes,No,No,30000,36,4,7.88,Average
+92,2,4.72,1,3,Basic,No,Yes,No,20000,86,9,6.72,At Risk
+90,7,9.25,1,3,Advance,Yes,Yes,No,62488,35,4,9.43,Excellent
+95,4,6.7,2,2,Intermediate,Yes,Yes,No,30000,11,2,7.88,Average
+95,5,6.7,2,3,Intermediate,Yes,No,No,20000,11,2,7.88,Average
+70,2,0.0,4,2,Intermediate,Yes,No,Yes,30000,91,11,6.32,At Risk
+99,3,6.7,2,2,Basic,No,No,Yes,20000,100,9,7.88,Average
+50,2,5.5,5,4,Basic,No,Yes,No,60000,110,13,6.65,At Risk
+100,1,6.5,4,4,Advance,Yes,No,Yes,62488,90,15,6.5,At Risk
+95,3,6.75,0,3,Intermediate,No,No,Yes,150000,120,11,7.28,Average
+90,2,7.18,2,1,Intermediate,No,Yes,No,30000,120,14,7.48,Average
+95,4,6.7,4,1,Intermediate,No,No,No,25000,50,5,7.88,Average
+70,2,6.7,4,4,Intermediate,No,Yes,No,200000,100,9,7.88,Average
+85,1,6.7,1,1,Basic,No,No,Yes,50000,77,21,7.88,Average
+99,3,6.7,3,1,Intermediate,No,No,No,40000,100,9,7.88,Average
+70,1,6.75,1,1,Intermediate,No,Yes,Yes,15000,76,9,7.3,Average
+73,2,6.7,2,1,Intermediate,No,No,No,75000,126,11,7.88,Average
+100,2,6.7,2,1,Intermediate,No,No,Yes,40000,126,11,7.88,Average
+70,3,7.45,2,1,Basic,No,No,Yes,20000,118,14,7.4,Average
+75,1,6.7,2,2,Advance,No,No,No,40000,126,11,7.88,Average
+80,5,6.7,2,7,Basic,Yes,Yes,Yes,62488,11,2,7.88,Average
+88,6,6.7,4,2,Intermediate,No,No,No,62488,100,9,7.88,Average
+99,3,8.8,7,2,Intermediate,No,No,No,15000,100,9,7.25,Average
+100,4,8.7,2,3,Intermediate,Yes,Yes,No,20000,68,8,7.7,Average
+90,2,6.7,3,3,Advance,Yes,Yes,No,63000,126,11,7.88,Average
+80,1,6.7,3,3,Basic,Yes,No,No,50000,126,11,7.88,Average
+90,2,6.7,2,5,Basic,No,No,No,40000,65,6,7.88,Average
+2,6,7.9,4,2,Advance,No,Yes,No,60000,121,14,6.7,At Risk
+87,2,4.8,1,1,Basic,No,No,No,60000,39,5,6.05,At Risk
+80,2,6.7,4,2,Intermediate,No,No,Yes,30000,36,4,7.88,Average
+50,5,6.7,2,6,Basic,No,No,No,7000,113,10,7.88,Average
+99,8,6.7,4,4,Intermediate,No,No,No,20000,126,11,7.88,Average
+99,3,6.7,1,1,Intermediate,No,No,No,20000,11,2,7.88,Average
+70,1,6.7,1,5,Basic,No,No,No,20000,77,7,7.88,Average
+100,7,6.7,3,1,Intermediate,Yes,Yes,No,30000,11,2,7.88,Average
+75,2,6.7,3,1,Basic,No,No,No,35000,136,13,7.88,Average
+100,6,6.7,2,6,Intermediate,Yes,No,No,62488,88,8,7.88,Average
+100,2,6.7,2,1,Intermediate,No,No,No,60000,88,8,7.88,Average
+88,4,6.7,3,2,Intermediate,No,No,No,60000,11,2,7.88,Average
+80,2,6.7,2,2,Advance,Yes,Yes,No,50000,36,4,7.88,Average
+80,2,6.7,2,3,Intermediate,No,Yes,Yes,30000,77,22,7.88,Average
+90,5,8.22,2,3,Intermediate,No,No,No,28000,114,11,8.07,Average
+100,3,6.7,3,3,Intermediate,No,Yes,No,60000,126,11,7.88,Average
+100,2,6.7,3,1,Advance,No,No,No,90000,136,12,7.88,Average
+80,3,6.7,4,3,Advance,No,No,No,200000,113,15,7.88,Average
+100,4,6.7,1,1,Intermediate,No,Yes,No,50000,88,8,7.88,Average
+80,3,5.0,3,5,Basic,No,No,Yes,4000,77,9,5.55,At Risk
+90,3,6.7,1,3,Basic,Yes,No,No,40000,11,2,7.88,Average
+80,5,8.25,2,3,Intermediate,No,No,Yes,80000,105,10,8.1,Average
+90,3,6.7,3,2,Basic,No,No,Yes,35000,113,10,7.88,Average
+90,1,7.52,6,12,Intermediate,No,No,No,65000,79,9,6.9,Average
+97,4,6.7,4,2,Intermediate,No,No,No,20000,136,12,7.88,Average
+95,3,8.0,2,3,Basic,No,No,No,40000,103,9,8.25,Good
+80,3,6.7,2,2,Advance,No,Yes,No,100000,136,12,7.88,Average
+90,4,6.7,2,6,Basic,Yes,No,No,50000,11,2,7.88,Average
+90,1,6.7,1,1,Intermediate,Yes,No,No,20000,136,12,7.88,Average
+90,3,6.7,2,4,Intermediate,Yes,Yes,No,30000,11,2,7.88,Average
+40,3,6.0,2,4,Basic,No,Yes,No,60000,70,7,6.0,At Risk
+90,4,6.7,1,2,Intermediate,No,Yes,No,50000,88,8,7.88,Average
+90,4,5.4,2,2,Intermediate,Yes,Yes,No,40000,35,4,6.88,Average
+90,8,6.7,2,3,Intermediate,Yes,No,No,40000,100,9,7.88,Average
+5,5,6.7,2,2,Intermediate,Yes,Yes,No,12000,88,8,7.88,Average
+97,5,0.0,4,2,Intermediate,No,No,No,50000,46,5,5.78,At Risk
+80,2,4.38,3,3,Basic,No,No,Yes,50000,50,5,6.28,At Risk
+90,4,6.7,2,4,Intermediate,No,No,No,10000,88,8,7.88,Average
+90,2,6.7,0,4,Intermediate,No,No,No,50000,88,8,7.88,Average
+92,3,6.7,3,0,Basic,Yes,No,No,100000,11,2,7.88,Average
+100,6,6.7,1,2,Intermediate,No,Yes,Yes,30000,88,8,7.88,Average
+88,2,6.7,3,4,Basic,Yes,No,No,40000,88,8,7.88,Average
+95,1,6.7,1,6,Intermediate,Yes,Yes,No,50000,0,1,7.88,Average
+98,3,6.5,2,2,Advance,No,No,No,500000,75,8,7.02,Average
+90,7,8.32,9,1,Intermediate,Yes,No,No,40000,33,4,8.75,Good
+90,3,10.0,2,2,Intermediate,No,Yes,No,40000,34,4,9.8,Excellent
+100,6,8.12,3,2,Basic,Yes,Yes,No,30000,11,2,8.12,Good
+100,1,8.65,2,1,Basic,Yes,Yes,No,40000,102,11,7.75,Average
+85,1,9.32,1,2,Intermediate,Yes,No,No,20000,11,2,9.32,Good
+100,3,5.0,5,1,Basic,No,No,No,25000,80,22,5.0,At Risk
+80,2,9.45,2,5,Intermediate,Yes,Yes,No,20000,132,11,8.9,Good
+100,6,8.55,2,1,Intermediate,Yes,Yes,No,50000,136,15,7.55,Average
+95,4,8.75,1,5,Advance,No,No,Yes,15000,122,14,8.0,Average
+90,2,8.15,2,3,Intermediate,Yes,Yes,No,22000,11,2,8.15,Good
+70,2,9.75,1,2,Basic,Yes,No,No,25000,12,2,9.5,Excellent
+95,2,9.25,1,5,Intermediate,Yes,No,No,50000,105,9,9.2,Good
+100,3,9.55,2,3,Intermediate,No,No,No,30000,78,11,9.12,Good
+99,5,9.62,2,5,Advance,Yes,Yes,No,100000,126,11,9.3,Good
+95,2,7.75,3,3,Advance,No,Yes,No,20000,133,18,7.1,Average
+90,2,6.68,0,6,Intermediate,Yes,No,No,35000,12,2,6.68,At Risk
+80,3,9.55,1,1,Intermediate,No,No,No,30000,84,9,9.0,Good
+100,4,9.3,2,2,Basic,Yes,Yes,No,40000,11,2,9.3,Good
+90,2,8.77,1,2,Intermediate,No,No,No,40000,125,10,8.9,Good
+90,8,8.7,5,4,Intermediate,No,No,Yes,40000,75,8,8.38,Good
+90,3,6.62,1,20,Basic,No,No,No,50000,121,11,7.48,Average
+100,6,9.3,5,2,Intermediate,No,Yes,No,62488,131,11,8.55,Good
+85,3,4.9,1,3,Basic,Yes,No,No,62488,11,2,4.9,At Risk
+95,2,8.45,2,1,Advance,Yes,Yes,No,50000,120,10,9.0,Good
+80,7,7.0,2,2,Intermediate,No,Yes,No,18000,130,14,7.0,Average
+100,5,8.4,2,4,Intermediate,No,No,Yes,40000,100,9,8.98,Good
+85,2,8.32,1,4,Intermediate,No,No,No,62488,80,8,7.75,Average
+90,1,5.28,2,2,Intermediate,No,Yes,Yes,80000,126,15,6.35,At Risk
+52,1,7.08,1,6,Basic,No,No,Yes,20000,37,4,7.62,Average
+88,3,5.5,2,4,Intermediate,Yes,Yes,No,62488,30,4,5.5,At Risk
+98,6,8.0,3,6,Intermediate,No,Yes,No,50000,110,11,8.05,Average
+70,4,7.02,2,1,Intermediate,No,Yes,No,12000,104,10,8.0,Average
+100,5,8.7,5,2,Basic,No,Yes,No,20000,11,2,8.7,Good
+90,5,10.0,5,6,Intermediate,Yes,No,Yes,50000,11,2,0.0,At Risk
+100,2,10.0,4,6,Basic,Yes,No,No,62488,14,1,10.0,Excellent
+90,4,9.25,1,6,Intermediate,Yes,No,No,50000,89,9,8.75,Good
+100,3,0.0,0,6,Basic,Yes,Yes,No,25000,11,1,0.0,At Risk
+90,4,9.2,3,5,Intermediate,Yes,No,No,25000,11,2,0.0,At Risk
+95,5,8.25,2,2,Intermediate,Yes,No,No,50000,11,1,8.25,Good
+88,4,9.62,6,2,Intermediate,No,Yes,No,62488,115,12,7.75,Average
+90,2,10.0,5,3,Intermediate,Yes,No,No,50000,120,11,9.45,Excellent
+97,4,7.45,2,1,Intermediate,No,Yes,No,20000,136,12,7.28,Average
+100,5,9.1,4,15,Advance,Yes,Yes,No,34000,88,8,9.38,Excellent
+95,6,8.9,2,1,Intermediate,Yes,No,No,10000,11,2,8.95,Good
+65,1,4.2,1,2,Advance,No,No,No,30000,120,11,7.75,Average
+80,3,6.35,2,5,Basic,No,No,No,40000,11,2,6.35,At Risk
+95,7,9.75,1,1,Basic,No,No,No,50000,11,2,9.75,Excellent
+90,6,9.6,1,3,Basic,Yes,No,No,60000,99,9,9.43,Excellent
+70,1,9.2,6,1,Intermediate,Yes,Yes,Yes,16000,117,10,8.48,Good
+95,2,7.85,2,2,Advance,Yes,No,No,40000,101,9,7.85,Average
+95,4,9.22,1,4,Intermediate,No,No,No,30000,125,11,8.07,Average
+95,3,6.82,6,1,Intermediate,No,No,No,25000,110,17,7.7,Average
+80,2,8.7,4,1,Intermediate,No,No,No,62488,123,11,7.5,Average
+75,5,6.52,2,12,Intermediate,Yes,Yes,No,40000,11,2,6.52,At Risk
+100,7,0.0,2,2,Intermediate,No,Yes,No,70000,0,1,0.0,At Risk
+88,1,7.0,1,2,Intermediate,No,Yes,No,50000,84,12,6.7,At Risk
+90,1,3.8,2,1,Basic,No,No,No,36000,70,7,5.38,At Risk
+85,2,7.8,3,3,Intermediate,No,Yes,No,30000,83,8,7.7,Average
+90,5,9.2,3,1,Intermediate,No,No,No,20000,118,12,8.32,Good
+85,4,5.62,1,1,Intermediate,Yes,No,No,20000,103,11,6.6,At Risk
+90,1,8.75,1,1,Intermediate,Yes,No,No,100000,126,11,8.58,Good
+100,6,0.0,3,1,Basic,Yes,No,No,50000,0,1,0.0,At Risk
+90,2,8.4,2,1,Basic,Yes,No,No,20000,88,8,9.3,Good
+99,1,9.57,2,4,Intermediate,Yes,No,No,35000,11,2,9.57,Excellent
+90,4,4.95,4,1,Intermediate,No,No,No,25000,104,10,7.45,Average
+98,3,8.43,2,2,Intermediate,No,No,Yes,62488,11,2,8.43,Good
+88,3,7.88,1,3,Advance,Yes,Yes,No,62488,11,1,7.88,Average
+88,5,0.0,2,3,Basic,Yes,No,No,30000,0,1,0.0,At Risk
+100,1,0.0,2,1,Intermediate,Yes,Yes,No,150000,0,1,0.0,At Risk
+98,4,0.0,2,3,Intermediate,Yes,Yes,No,50000,0,1,0.0,At Risk
+90,3,6.98,2,3,Basic,No,No,No,30000,133,14,7.1,Average
+95,5,8.8,1,2,Intermediate,Yes,Yes,No,62488,23,3,9.12,Good
+90,1,9.62,1,2,Intermediate,Yes,No,No,35000,35,3,9.48,Excellent
+70,4,7.52,2,5,Advance,Yes,Yes,Yes,90000,120,11,7.22,Average
+90,3,7.95,3,2,Advance,Yes,No,No,80000,24,3,7.95,Average
+100,5,9.3,3,5,Intermediate,Yes,Yes,No,60000,26,3,9.72,Excellent
+70,3,7.0,3,10,Intermediate,Yes,No,Yes,500000,40,5,7.25,Average
+90,2,8.55,1,3,Basic,Yes,No,No,50000,23,3,8.9,Good
+85,3,6.22,2,3,Basic,Yes,No,No,40000,25,4,7.57,Average
+95,2,6.7,1,3,Intermediate,No,No,No,100000,23,3,7.88,Average
+90,3,9.65,1,2,Intermediate,Yes,No,Yes,20000,49,5,9.18,Good
+100,3,0.0,1,1,Advance,Yes,No,No,30000,0,1,0.0,At Risk
+90,6,9.55,3,2,Intermediate,Yes,Yes,No,50000,55,5,9.25,Good
+75,2,8.95,1,2,Intermediate,Yes,No,No,40000,23,3,7.75,Average
+98,5,6.42,2,2,Intermediate,No,No,No,30000,45,5,7.0,Average
+95,5,9.65,3,2,Advance,Yes,Yes,Yes,40000,23,3,9.8,Excellent
+80,3,10.0,1,3,Intermediate,No,Yes,No,40000,11,2,10.0,Excellent
+80,1,0.0,0,7,Intermediate,Yes,Yes,No,60000,0,1,0.0,At Risk
+90,1,7.75,1,2,Intermediate,No,Yes,No,40000,65,6,8.5,Good
+100,6,0.0,3,4,Advance,No,Yes,No,40000,0,1,0.0,At Risk
+95,1,9.2,2,1,Basic,Yes,No,Yes,45000,24,3,9.12,Good
+2,7,8.5,0,3,Basic,Yes,No,No,40000,11,2,8.5,Good
+100,8,0.0,1,2,Basic,Yes,Yes,No,10000,0,1,0.0,At Risk
+70,3,6.12,3,2,Advance,Yes,No,Yes,50000,25,3,7.38,Average
+80,2,6.0,1,3,Intermediate,No,No,No,62488,130,14,7.22,Average
+99,4,8.68,3,1,Intermediate,Yes,Yes,No,50000,23,3,8.0,Average
+87,2,6.32,1,1,Intermediate,No,No,No,37000,115,11,7.62,Average
+50,1,6.4,1,3,Basic,Yes,Yes,Yes,45000,26,3,6.8,At Risk
+100,4,0.0,1,3,Intermediate,No,Yes,No,100000,0,1,0.0,At Risk
+80,2,5.9,1,1,Basic,No,Yes,No,35000,65,7,6.4,At Risk
+100,2,0.0,1,1,Basic,No,Yes,No,400006,0,1,0.0,At Risk
+100,1,0.0,0,2,Intermediate,Yes,Yes,No,70000,0,1,0.0,At Risk
+100,4,6.7,2,2,Basic,Yes,No,No,20000,11,1,7.88,Average
+90,2,7.98,1,1,Intermediate,Yes,No,No,40000,24,3,6.82,At Risk
+88,2,5.28,1,1,Basic,No,No,Yes,30000,25,3,5.32,At Risk
+98,6,7.75,2,2,Basic,No,No,No,60000,107,11,7.68,Average
+95,4,8.2,2,5,Intermediate,Yes,Yes,No,70000,25,3,7.5,Average
+100,1,7.88,0,2,Basic,Yes,No,No,35000,11,1,7.88,Average
+90,5,9.0,1,3,Basic,Yes,Yes,No,10000,14,2,9.0,Good
+90,3,9.38,2,1,Intermediate,Yes,No,No,50000,24,3,9.25,Good
+90,1,9.62,2,3,Intermediate,No,Yes,No,40000,34,4,9.8,Excellent
+90,3,6.7,2,2,Basic,Yes,No,No,100000,23,4,6.7,At Risk
+99,3,7.95,3,1,Intermediate,Yes,No,No,62488,11,2,7.95,Average
+90,2,8.48,2,1,Intermediate,Yes,No,No,5000,128,11,8.5,Good
+100,4,7.45,2,4,Intermediate,No,No,Yes,60000,25,4,8.45,Good
+97,9,9.25,5,3,Intermediate,No,No,No,50000,23,2,7.88,Average
+80,1,8.12,2,2,Advance,No,No,No,40000,130,14,7.38,Average
+85,2,7.57,1,3,Basic,No,No,No,30000,25,3,8.02,Average
+95,2,7.75,1,3,Intermediate,No,No,No,50000,48,5,7.95,Average
+98,2,9.25,1,3,Intermediate,Yes,No,No,120000,12,2,9.25,Good
+70,9,10.0,4,6,Intermediate,Yes,Yes,No,30000,12,2,10.0,Excellent
+85,1,7.95,1,2,Intermediate,Yes,Yes,No,62488,23,3,8.62,Good
+100,2,9.02,2,3,Basic,Yes,No,No,40000,25,3,9.35,Good
+70,2,7.52,1,0,Intermediate,Yes,No,No,70000,23,3,8.05,Average
+80,2,8.15,2,5,Basic,No,No,Yes,40000,23,3,8.4,Good
+100,1,9.0,2,2,Intermediate,Yes,Yes,No,300000,130,19,9.3,Good
+100,2,7.8,3,5,Basic,No,No,Yes,50000,23,3,7.52,Average
+100,4,9.83,2,2,Basic,Yes,Yes,No,50000,11,1,9.83,Excellent
+95,5,7.5,1,6,Advance,Yes,Yes,No,150000,23,3,8.88,Good
+70,1,4.03,1,3,Basic,No,Yes,No,25000,40,9,6.1,At Risk
+80,1,6.98,1,3,Basic,Yes,No,No,40000,50,6,7.88,Average
+98,2,9.57,2,3,Intermediate,No,No,No,40000,25,4,8.5,Good
+100,3,8.95,3,2,Advance,Yes,No,No,62488,130,12,8.18,Good
+100,3,8.48,2,4,Basic,Yes,No,No,70000,25,3,7.98,Average
+100,3,8.45,2,2,Intermediate,Yes,No,No,25000,23,3,8.43,Good
+100,3,7.57,2,1,Intermediate,Yes,No,Yes,30000,23,3,7.88,Average
+100,3,0.0,1,1,Intermediate,No,Yes,No,40000,0,1,0.0,At Risk
+95,1,9.12,1,1,Intermediate,Yes,Yes,No,40000,30,3,9.25,Good
+80,3,7.95,1,2,Intermediate,No,No,Yes,30000,90,9,6.72,At Risk
+100,3,9.45,2,2,Basic,Yes,Yes,No,30000,90,2,7.88,Average
+70,1,6.4,3,4,Intermediate,Yes,Yes,No,30000,90,8,8.45,Good
+90,2,7.35,0,12,Basic,Yes,No,Yes,45000,24,3,7.75,Average
+77,3,5.9,3,4,Intermediate,No,No,No,80000,23,3,7.2,Average
+100,3,9.5,2,5,Intermediate,Yes,No,No,30000,11,2,9.5,Excellent
+80,0,3.82,0,15,Basic,Yes,No,No,30000,23,3,6.08,At Risk
+80,2,7.5,3,5,Intermediate,No,No,No,35000,90,7,7.28,Average
+80,2,5.8,1,5,Basic,No,Yes,No,40000,23,3,6.65,At Risk
+90,6,0.0,1,4,Intermediate,Yes,No,Yes,62488,11,1,0.0,At Risk
+50,3,8.43,0,12,Advance,Yes,Yes,Yes,62488,23,3,7.88,Average
+100,2,7.22,1,3,Intermediate,Yes,Yes,Yes,50000,24,3,8.43,Good
+90,2,7.92,2,2,Basic,Yes,No,No,40000,24,3,7.88,Average
+100,2,5.65,1,5,Basic,Yes,No,Yes,35000,20,3,5.78,At Risk
+99,5,9.12,1,2,Basic,Yes,No,No,35000,12,2,9.12,Good
+96,2,7.57,1,1,Intermediate,Yes,No,No,49000,25,3,7.55,Average
+80,2,9.83,0,4,Basic,Yes,No,Yes,15000,53,7,8.6,Good
+80,4,7.5,2,2,Advance,No,Yes,No,2000000,105,9,7.72,Average
+98,2,0.0,0,3,Basic,Yes,No,No,62488,0,1,0.0,At Risk
+88,8,8.62,2,2,Basic,Yes,Yes,No,30000,11,2,8.62,Good
+100,3,7.35,1,1,Basic,Yes,No,No,62488,23,3,7.57,Average
+100,8,9.83,4,1,Intermediate,Yes,Yes,No,50000,25,3,9.88,Excellent
+85,1,9.65,2,2,Intermediate,Yes,Yes,Yes,50000,24,3,9.6,Excellent
+100,4,7.32,1,2,Intermediate,No,No,No,30000,26,3,7.1,Average
+80,5,7.65,2,1,Intermediate,Yes,No,No,7000,36,4,7.7,Average
+100,2,0.0,0,7,Advance,Yes,No,No,50000,0,1,0.0,At Risk
+100,0,9.8,4,3,Intermediate,Yes,No,No,50000,60,8,9.85,Excellent
+98,2,7.92,1,2,Intermediate,No,Yes,No,30000,25,3,8.82,Good
+95,1,9.07,1,3,Basic,Yes,No,No,35000,11,1,9.07,Good
+98,8,9.95,2,2,Intermediate,Yes,No,No,20000,23,3,9.65,Excellent
+97,6,8.48,3,2,Intermediate,No,Yes,No,40000,20,4,7.0,Average
+90,2,9.2,1,3,Intermediate,Yes,No,Yes,40000,11,2,9.2,Good
+90,5,9.57,3,4,Basic,Yes,Yes,No,20000,11,2,9.57,Excellent
+100,3,9.1,2,4,Intermediate,No,No,No,50000,87,8,9.35,Good
+100,2,7.4,1,1,Intermediate,Yes,No,No,25000,25,3,8.45,Good
+100,3,5.62,2,1,Intermediate,No,Yes,No,20000,60,6,7.88,Average
+100,5,9.5,2,2,Intermediate,Yes,Yes,Yes,20000,11,2,9.5,Excellent
+90,1,8.73,1,5,Intermediate,Yes,No,No,30000,23,3,8.75,Good
+60,2,5.28,1,2,Intermediate,Yes,No,No,50000,26,3,7.5,Average
+99,3,8.55,1,3,Intermediate,Yes,No,No,20000,11,2,8.55,Good
+99,5,9.9,2,6,Intermediate,Yes,Yes,Yes,12500,76,7,9.83,Excellent
+90,7,7.15,4,2,Intermediate,No,No,No,15000,125,12,8.15,Good
+60,5,1.25,1,4,Basic,No,No,No,5000,11,2,1.25,At Risk
+98,5,8.75,1,3,Intermediate,No,No,No,20000,0,1,8.75,Good
+90,1,6.3,1,2,Basic,Yes,No,No,50000,12,2,6.3,At Risk
+98,4,9.3,3,2,Intermediate,No,No,No,60000,25,3,9.28,Good
+95,5,7.0,1,2,Intermediate,Yes,Yes,No,68000,120,11,8.38,Good
+99,3,9.95,1,2,Intermediate,Yes,No,No,40000,58,6,9.98,Excellent
+100,4,9.2,2,3,Intermediate,No,No,Yes,40000,24,3,9.02,Good
+90,1,7.57,1,5,Intermediate,Yes,No,Yes,50000,25,3,7.35,Average
+95,3,8.35,1,4,Intermediate,No,No,Yes,40000,120,11,7.95,Average
+100,8,8.48,1,2,Basic,Yes,Yes,No,50000,12,2,8.48,Good
+96,3,9.45,2,3,Intermediate,No,No,No,18000,141,11,8.88,Good
+100,2,2.62,8,8,Basic,No,No,No,62488,42,5,7.43,Average
+85,2,5.15,2,4,Basic,No,No,No,25000,23,3,5.5,At Risk
+95,3,9.18,2,3,Basic,Yes,No,No,45000,11,2,9.18,Good
+100,5,9.45,3,3,Intermediate,No,Yes,No,40000,11,2,9.45,Excellent
+75,1,4.07,1,1,Intermediate,Yes,Yes,Yes,60000,79,7,6.52,At Risk
+70,2,7.92,2,6,Basic,Yes,Yes,No,40000,22,3,8.48,Good
+100,2,9.55,3,2,Intermediate,No,No,Yes,100000,23,3,9.78,Excellent
+100,2,6.38,0,4,Basic,No,No,No,40000,11,2,6.38,At Risk
+92,2,9.48,1,2,Intermediate,Yes,No,No,35000,23,3,9.72,Excellent
+99,2,10.0,0,3,Basic,Yes,Yes,No,20000,10,1,10.0,Excellent
+85,3,9.4,2,2,Intermediate,No,No,No,33000,120,11,9.05,Good
+100,5,9.35,2,4,Basic,Yes,Yes,Yes,15000,88,8,9.78,Excellent
+98,1,0.0,2,2,Basic,Yes,Yes,No,20000,0,1,0.0,At Risk
+99,2,7.88,2,1,Basic,Yes,Yes,No,20000,13,1,7.88,Average
+100,2,8.45,2,4,Intermediate,Yes,No,No,50000,23,3,8.0,Average
+90,5,9.95,3,3,Intermediate,No,No,No,70000,58,6,9.93,Excellent
+95,2,5.25,1,1,Basic,Yes,Yes,Yes,25000,14,2,5.25,At Risk
+80,3,6.8,1,5,Intermediate,Yes,Yes,No,60000,62,8,5.62,At Risk
+98,3,8.25,4,3,Advance,Yes,No,Yes,50000,23,3,8.48,Good
+100,4,10.0,3,2,Advance,Yes,No,No,30000,23,3,9.3,Good
+90,2,7.75,2,3,Basic,No,No,No,20000,12,2,7.75,Average
+90,1,6.4,1,3,Advance,Yes,No,No,35000,23,3,5.02,At Risk
+80,2,8.02,1,12,Intermediate,Yes,Yes,Yes,30000,12,2,8.02,Average
+95,6,0.0,2,2,Intermediate,Yes,No,No,70000,0,1,0.0,At Risk
+75,4,8.45,1,3,Intermediate,No,Yes,Yes,15000,14,12,8.45,Good
+92,3,7.88,1,2,Basic,Yes,No,No,50000,11,1,7.88,Average
+95,1,9.75,2,4,Basic,No,Yes,No,30000,11,2,9.75,Excellent
+98,2,9.88,1,1,Intermediate,Yes,No,No,50000,12,2,9.88,Excellent
+100,3,7.57,1,3,Intermediate,Yes,No,No,90000,12,2,7.57,Average
+60,7,6.48,2,5,Intermediate,No,Yes,Yes,28000,133,14,6.4,At Risk
+100,3,0.0,2,2,Advance,Yes,Yes,No,30000,0,1,0.0,At Risk
+99,5,8.62,3,4,Intermediate,Yes,No,No,25000,25,3,8.24,Good
+85,1,9.0,1,4,Basic,No,Yes,No,40000,11,2,9.0,Good
+98,6,8.82,5,1,Basic,No,Yes,No,40000,11,2,8.82,Good
+99,3,9.65,1,2,Intermediate,Yes,Yes,No,50000,90,8,9.22,Good
+100,3,8.7,2,4,Advance,No,Yes,No,25000,11,2,6.0,At Risk
+98,2,9.25,6,1,Intermediate,No,No,No,62488,54,5,9.43,Excellent
+100,3,9.6,2,1,Advance,No,No,No,50000,11,2,9.6,Excellent
+100,6,8.5,3,2,Intermediate,No,No,No,60000,85,8,8.22,Good
+90,4,8.58,1,2,Basic,No,No,No,24000,14,1,8.58,Good
+100,4,9.25,12,2,Intermediate,Yes,Yes,No,30000,11,2,9.25,Good
+85,4,7.55,3,4,Advance,No,No,No,20000,70,6,8.0,Average
+90,2,8.7,2,3,Basic,No,No,No,20000,23,3,7.45,Average
+90,3,8.82,2,2,Advance,Yes,Yes,No,40000,13,2,8.82,Good
+90,4,7.65,3,2,Advance,Yes,No,No,30000,87,8,8.52,Good
+100,2,9.75,1,3,Basic,No,No,No,20000,11,2,9.75,Excellent
+95,2,0.0,0,4,Intermediate,No,No,Yes,50000,0,1,0.0,At Risk
+99,3,7.98,4,1,Intermediate,No,Yes,No,40000,101,9,8.43,Good
+95,4,0.33,4,2,Basic,No,Yes,Yes,30000,11,2,0.33,At Risk
+98,4,7.62,2,2,Basic,Yes,No,Yes,20000,11,2,7.62,Average
+99,3,10.0,1,1,Advance,No,Yes,No,80000,11,1,10.0,Excellent
+98,4,9.38,3,3,Intermediate,Yes,Yes,No,60000,11,2,9.38,Excellent
+90,3,8.32,4,2,Intermediate,Yes,No,No,20000,12,2,8.32,Good
+80,4,7.02,2,1,Basic,Yes,Yes,No,40000,35,3,7.02,Average
+90,3,5.45,0,4,Intermediate,Yes,Yes,Yes,35000,11,2,5.2,At Risk
+100,4,0.0,2,1,Intermediate,No,No,No,30000,0,1,0.0,At Risk
+70,0,9.25,6,3,Intermediate,No,No,No,20000,70,8,9.38,Excellent
+90,2,9.05,2,1,Intermediate,No,No,Yes,62488,140,13,7.5,Average
+87,2,7.95,1,3,Basic,No,No,Yes,35000,11,3,7.95,Average
+98,3,8.88,1,8,Basic,Yes,Yes,Yes,100000,11,1,8.98,Good
+100,4,8.95,6,2,Basic,Yes,Yes,No,15000,23,3,9.38,Excellent
+90,2,9.7,3,8,Basic,Yes,No,Yes,10000,12,2,9.7,Excellent
+90,2,7.5,3,10,Basic,Yes,No,No,30000,12,2,7.5,Average
+95,4,10.0,2,1,Intermediate,Yes,Yes,No,40000,11,2,10.0,Excellent
+80,2,9.93,3,1,Basic,Yes,Yes,No,30000,11,2,9.93,Excellent
+75,3,9.48,2,1,Intermediate,Yes,Yes,No,100000,25,3,9.22,Good
+90,6,7.4,2,2,Intermediate,No,No,No,50000,111,11,7.22,Average
+88,5,9.43,3,3,Intermediate,Yes,Yes,Yes,30000,49,5,9.65,Excellent
+90,1,8.6,4,1,Intermediate,No,No,No,50000,124,11,8.7,Good
+100,4,0.0,1,3,Advance,Yes,No,Yes,40000,0,1,0.0,At Risk
+85,2,8.9,1,2,Intermediate,Yes,No,No,25000,23,3,9.15,Good
+100,3,8.9,1,1,Basic,Yes,No,No,40000,12,2,8.9,Good
+88,5,6.2,3,2,Intermediate,Yes,Yes,No,35000,23,4,6.85,At Risk
+97,0,0.0,1,3,Basic,Yes,No,Yes,35000,0,1,0.0,At Risk
+80,1,8.12,0,5,Basic,Yes,No,No,40000,11,2,8.0,Average
+85,4,0.0,0,5,Basic,Yes,Yes,No,50000,0,1,0.0,At Risk
+80,2,9.25,2,3,Intermediate,Yes,Yes,No,50000,39,4,8.5,Good
+100,1,8.45,0,2,Intermediate,Yes,No,No,80000,25,4,8.95,Good
+80,1,9.45,4,2,Intermediate,Yes,Yes,No,40000,49,4,9.75,Excellent
+95,4,8.5,2,3,Intermediate,No,No,No,20000,106,10,8.75,Good
+80,2,6.45,5,3,Intermediate,No,Yes,No,65000,106,10,7.32,Average
+85,1,9.9,1,1,Advance,No,No,Yes,25000,85,8,9.25,Good
+88,3,8.95,2,2,Intermediate,Yes,No,No,40000,25,3,9.4,Excellent
+99,2,9.48,2,4,Intermediate,Yes,Yes,No,50000,23,3,9.78,Excellent
+94-98,1,5.42,1,1,Intermediate,No,Yes,No,15000,44,5,7.65,Average
+90,3,2.8,4,2,Intermediate,Yes,No,No,60000,32,4,4.7,At Risk
+99,4,9.3,2,1,Intermediate,Yes,No,No,35000,25,3,9.18,Good
+88,5,8.88,2,1,Basic,No,Yes,No,35000,11,2,8.88,Good
+98,4,7.08,2,2,Intermediate,No,No,No,25000,65,8,7.05,Average
+95,2,9.7,1,2,Basic,Yes,No,Yes,35000,11,2,9.7,Excellent
+90,1,10.0,2,4,Intermediate,Yes,Yes,Yes,25000,12,2,10.0,Excellent
+97,3,7.5,1,3,Intermediate,No,Yes,No,150000,87,8,9.15,Good
+90,8,6.1,5,2,Intermediate,No,Yes,No,20000,90,12,6.1,At Risk
+98,4,7.05,1,1,Intermediate,Yes,No,No,25000,23,3,7.5,Average
+100,2,9.75,2,1,Intermediate,Yes,No,No,50000,11,2,9.75,Excellent
+98,5,8.32,2,12,Basic,Yes,Yes,Yes,62488,12,2,8.32,Good
+97,3,9.25,2,2,Basic,No,Yes,No,35000,11,2,9.25,Good
+90,4,9.95,1,3,Intermediate,Yes,Yes,No,25000,11,2,9.95,Excellent
+100,2,8.5,1,1,Basic,Yes,No,No,60000,11,1,9.5,Excellent
+70,1,9.52,1,2,Intermediate,Yes,Yes,No,400000,11,2,9.52,Excellent
+90,1,9.93,0,3,Intermediate,Yes,Yes,Yes,25000,11,2,9.93,Excellent
+90,8,8.32,2,8,Basic,Yes,Yes,No,30000,12,2,8.32,Good
+70,3,6.7,5,3,Intermediate,Yes,No,Yes,15000,23,3,7.22,Average
+95,3,9.6,1,2,Intermediate,No,No,Yes,30000,11,2,9.6,Excellent
+75,2,8.85,1,1,Advance,Yes,Yes,No,20000,25,3,9.22,Good
+88,2,4.45,2,3,Intermediate,No,No,No,25000,20,3,7.88,Average
+90,2,5.8,1,3,Intermediate,Yes,Yes,Yes,35000,24,3,7.0,Average
+90,3,10.0,2,3,Basic,Yes,No,No,50000,11,2,10.0,Excellent
+95,2,0.0,2,2,Intermediate,No,Yes,Yes,62488,0,1,0.0,At Risk
+90,5,9.5,2,1,Basic,No,No,No,20000,12,2,9.5,Excellent
+100,0,5.2,6,3,Basic,No,No,No,30000,49,5,7.28,Average
+95,2,7.62,2,1,Basic,No,Yes,No,25000,12,2,7.62,Average
+90,3,8.62,0,5,Advance,Yes,Yes,No,30000,12,2,8.62,Good
+98,1,0.0,2,3,Basic,No,No,No,20000,0,1,0.0,At Risk
+96,4,6.82,2,3,Basic,Yes,No,No,20000,12,1,6.82,At Risk
+80,1,8.0,3,2,Intermediate,No,Yes,No,40000,132,11,8.22,Good
+100,6,9.9,2,2,Intermediate,Yes,Yes,No,100000,85,8,9.85,Excellent
+60,0,8.9,0,6,Intermediate,Yes,No,No,40000,87,7,9.22,Good
+100,2,0.0,1,8,Basic,Yes,No,No,40000,0,1,0.0,At Risk
+100,2,9.72,1,1,Basic,Yes,Yes,No,70000,11,2,9.72,Excellent
+100,2,0.0,1,7,Intermediate,Yes,Yes,No,15000,0,1,0.0,At Risk
+50,4,9.72,1,3,Basic,Yes,No,No,80000,23,3,8.4,Good
+10,3,9.2,1,2,Basic,Yes,No,No,24000,14,2,9.2,Good
+100,1,0.0,2,3,Intermediate,Yes,No,No,20000,0,1,0.0,At Risk
+98,5,7.32,2,2,Intermediate,Yes,Yes,No,35000,11,2,7.32,Average
+100,4,9.52,2,2,Basic,Yes,No,No,50000,12,2,9.52,Excellent
+98,3,8.43,1,2,Intermediate,No,No,Yes,25000,11,2,8.43,Good
+100,3,8.12,1,3,Intermediate,Yes,No,No,62488,10,2,8.12,Good
+85,3,7.22,2,3,Basic,Yes,No,No,30000,11,2,7.22,Average
+95,2,3.62,1,3,Basic,No,Yes,Yes,40000,11,2,3.62,At Risk
+98,2,9.32,2,4,Intermediate,No,No,No,35000,11,2,9.32,Good
+92,2,7.95,4,1,Intermediate,Yes,No,No,25000,11,2,7.95,Average
+99,5,8.75,1,4,Intermediate,No,Yes,No,30000,100,12,9.25,Good
+90,1,7.25,1,2,Basic,Yes,No,Yes,60000,11,2,7.25,Average
+95,6,8.7,2,2,Basic,Yes,No,No,25000,12,2,8.7,Good
+95,3,9.0,3,4,Basic,Yes,No,No,25000,11,2,9.0,Good
+90,2,7.82,4,2,Basic,No,No,No,40000,11,2,7.92,Average
+90,3,3.55,2,2,Basic,Yes,No,No,50000,5,2,3.55,At Risk
+88,2,7.82,2,1,Intermediate,Yes,No,No,40000,11,2,7.82,Average
+100,3,9.62,1,2,Intermediate,Yes,No,No,30000,12,2,9.62,Excellent
+100,4,9.0,1,1,Intermediate,Yes,Yes,Yes,35000,11,2,9.0,Good
+100,2,8.85,1,1,Intermediate,Yes,Yes,No,14000,11,2,8.85,Good
+88,1,8.85,3,4,Basic,Yes,No,No,62488,11,2,8.88,Good
+95,3,5.25,6,4,Intermediate,No,No,No,10000,12,2,5.25,At Risk
+90,3,6.25,1,5,Basic,Yes,Yes,No,25000,12,2,6.25,At Risk
+90,7,8.28,5,1,Intermediate,Yes,Yes,No,30000,139,11,9.4,Excellent
+85,1,9.38,0,4,Advance,No,No,No,50000,12,2,9.38,Excellent
+98,6,9.25,3,2,Intermediate,Yes,No,Yes,25000,13,2,9.25,Good
+97,3,8.75,3,1,Intermediate,No,No,Yes,33000,13,2,8.75,Good
+90,3,9.25,2,4,Basic,Yes,No,No,60000,11,2,9.25,Good
+70,3,8.1,2,3,Basic,Yes,No,No,40000,11,2,8.1,Average
+99,2,5.75,1,2,Intermediate,No,No,No,60000,113,11,7.0,Average
+70,2,9.68,2,3,Intermediate,No,No,No,70000,141,12,9.0,Good
+37,3,8.1,1,4,Intermediate,Yes,Yes,No,25000,27,3,8.75,Good
+85,3,9.12,2,3,Basic,No,No,No,62488,11,2,9.12,Good
+80,4,8.8,2,3,Intermediate,Yes,Yes,No,25000,21,3,8.75,Good
+95,3,6.82,4,2,Basic,Yes,No,No,21000,11,2,6.82,At Risk
+90,3,9.48,2,1,Basic,Yes,No,No,13000,23,3,9.7,Excellent
+70,2,9.9,0,2,Basic,Yes,No,No,30000,116,11,9.78,Excellent
+90,5,7.88,1,2,Basic,No,No,No,60000,11,2,7.88,Average
+100,7,8.5,2,1,Intermediate,No,Yes,Yes,15000,12,2,8.5,Good
+90,2,8.73,2,1,Intermediate,No,No,No,20000,126,11,8.48,Good
+100,6,9.62,2,1,Intermediate,No,Yes,No,30000,12,2,9.62,Excellent
+90,4,5.05,2,1,Intermediate,No,Yes,No,35000,71,8,6.0,At Risk
+50,5,9.72,2,3,Basic,Yes,No,No,80000,23,3,8.45,Good
+90,2,9.83,3,2,Intermediate,Yes,No,No,55000,12,2,9.83,Excellent
+99,5,9.75,1,2,Basic,No,No,No,20000,11,2,9.75,Excellent
+95,3,8.68,1,3,Intermediate,Yes,No,No,30000,12,2,8.68,Good
+90,2,9.25,1,2,Intermediate,No,Yes,No,30000,12,2,9.25,Good
+100,4,8.62,2,2,Intermediate,Yes,Yes,Yes,20000,11,2,8.62,Good
+98,3,9.32,1,2,Intermediate,Yes,No,No,100000,11,2,9.32,Good
+95,4,9.32,3,2,Intermediate,Yes,Yes,Yes,35000,26,3,9.2,Good
+95,3,9.12,2,1,Intermediate,Yes,No,No,20000,11,2,9.12,Good
+100,4,8.62,2,3,Basic,Yes,No,No,35000,11,2,8.62,Good
+100,4,6.45,2,3,Basic,Yes,No,No,35000,11,2,6.45,At Risk
+98,4,4.68,5,2,Advance,Yes,No,Yes,20000,32,3,8.75,Good
+93,1,6.7,1,2,Intermediate,No,No,No,40000,77,7,7.88,Average
+98,4,9.9,3,1,Intermediate,Yes,Yes,No,25000,76,7,9.98,Excellent
+90,4,9.2,2,1,Intermediate,Yes,No,Yes,62488,84,8,9.32,Good
+50,5,8.38,2,10,Basic,Yes,Yes,No,50000,90,9,5.75,At Risk
+90,4,5.1,6,4,Intermediate,No,Yes,No,50000,93,9,7.15,Average
+95,0,9.35,1,2,Advance,Yes,No,No,30000,90,8,9.18,Good
+95,4,9.38,1,2,Intermediate,No,No,No,250000,110,8,9.38,Excellent
+90,2,8.25,2,1,Intermediate,No,No,No,50000,86,8,8.15,Good
+98,5,9.3,3,4,Intermediate,Yes,Yes,Yes,25000,90,8,8.62,Good
+88,4,8.02,2,3,Intermediate,No,Yes,No,40000,85,8,8.55,Good
+97,1,9.1,0,3,Intermediate,Yes,Yes,No,60000,76,7,9.12,Good
+90,3,7.15,2,5,Advance,Yes,No,Yes,50000,87,8,8.55,Good
+90,4,9.45,2,1,Intermediate,Yes,No,No,30000,93,8,9.7,Excellent
+99,5,6.65,2,5,Basic,No,Yes,No,50000,115,13,6.9,Average
+90,2,7.6,1,3,Advance,No,Yes,No,100000,85,8,7.18,Average
+80,1,4.4,1,4,Intermediate,No,No,No,35000,64,8,6.38,At Risk
+98,3,7.88,2,2,Advance,Yes,No,No,5000,84,8,9.28,Good
+100,2,10.0,4,1,Intermediate,Yes,No,No,50000,86,8,9.05,Good
+100,3,8.95,3,2,Intermediate,No,No,No,45000,14,2,8.95,Good
+88,6,8.5,2,2,Intermediate,No,Yes,Yes,30000,11,1,8.5,Good
+78,2,6.1,2,16,Advance,No,No,Yes,30000,76,8,6.92,Average
+97,6,9.85,1,1,Advance,Yes,Yes,No,40000,75,7,9.78,Excellent
+80,3,7.5,0,1,Intermediate,Yes,Yes,Yes,50000,90,10,7.12,Average
+85,1,8.3,1,3,Intermediate,Yes,No,Yes,50000,88,8,8.18,Good
+90,2,7.0,2,5,Basic,Yes,No,No,30000,11,2,7.0,Average
+99,3,8.48,2,3,Intermediate,No,Yes,No,40000,70,6,8.32,Good
+95,1,10.0,1,2,Intermediate,No,Yes,No,40000,12,2,10.0,Excellent
+100,1,8.0,2,1,Intermediate,Yes,No,No,40000,117,11,8.6,Good
+88,2,8.28,1,2,Intermediate,Yes,Yes,No,20000,70,7,7.25,Average
+85,5,7.4,1,4,Intermediate,No,Yes,No,20000,136,14,7.65,Average
+100,3,9.2,2,4,Basic,Yes,No,No,35000,11,2,9.2,Good
+100,4,9.45,2,6,Basic,No,Yes,No,4000,11,2,9.45,Excellent
+95,4,9.68,3,1,Intermediate,Yes,Yes,Yes,15000,86,7,9.2,Good
+95,10,6.7,2,2,Basic,Yes,No,No,40000,25,4,6.18,At Risk
+90,3,9.75,1,2,Intermediate,Yes,No,No,20000,11,2,9.75,Excellent
+90,2,6.62,4,2,Advance,No,No,No,62488,130,13,7.43,Average
+87,2,8.22,1,3,Intermediate,No,No,No,100000,100,8,9.12,Good
+97,3,7.85,2,2,Intermediate,No,Yes,No,48400,95,8,9.05,Good
+80,4,7.88,10,8,Intermediate,No,No,Yes,30000,140,17,8.48,Good
+100,2,8.65,3,2,Intermediate,Yes,No,No,80000,88,8,8.88,Good
+99,1,8.3,0,3,Intermediate,No,No,No,40000,85,8,7.92,Average
+95,3,8.02,2,4,Intermediate,Yes,No,No,25000,76,7,8.4,Good
+100,5,9.83,4,2,Basic,Yes,No,No,15000,11,2,9.83,Excellent
+90,6,9.85,3,1,Intermediate,No,No,No,40000,130,11,9.4,Excellent
+95,4,7.18,2,3,Intermediate,No,Yes,No,200000,24,3,5.78,At Risk
+100,3,8.28,2,2,Basic,No,No,No,30000,49,5,8.18,Good
+99,5,10.0,1,1,Intermediate,Yes,Yes,No,35000,11,2,10.0,Excellent
+100,0,10.0,1,4,Basic,Yes,No,No,20000,12,2,10.0,Excellent
+75,1,5.2,1,2,Intermediate,Yes,No,Yes,50000,20,3,6.7,At Risk
+80,6,6.55,2,3,Basic,No,No,No,5000,18,3,6.6,At Risk
+100,2,9.72,2,8,Basic,Yes,Yes,No,35000,12,1,9.72,Excellent
+70,2,6.88,1,8,Advance,No,No,No,70000,111,14,7.2,Average
+98,5,10.0,3,2,Intermediate,No,No,No,30000,87,8,9.93,Excellent
+95,3,8.92,2,2,Intermediate,Yes,No,No,40000,90,8,8.92,Good
+98,2,7.98,0,2,Intermediate,Yes,No,Yes,62488,90,8,8.52,Good
+99,8,9.0,3,2,Intermediate,Yes,No,No,24000,130,11,9.75,Excellent
+85,6,7.2,3,6,Intermediate,No,No,No,100000,68,7,7.2,Average
+90,3,6.85,2,6,Basic,Yes,No,No,20000,23,2,6.85,At Risk
+50,5,3.52,3,3,Basic,No,No,No,10000,25,3,6.38,At Risk
+100,5,8.55,2,3,Intermediate,No,No,No,40000,122,11,8.3,Good
+99,5,7.75,2,3,Intermediate,No,No,No,40000,118,11,7.7,Average
+90,2,9.9,2,1,Advance,Yes,No,No,120000,87,8,9.65,Excellent
+70,3,8.22,1,2,Intermediate,Yes,No,No,40000,11,2,8.22,Good
+100,3,9.38,2,3,Basic,Yes,No,No,50000,12,1,9.38,Excellent
+100,5,9.15,2,2,Intermediate,Yes,No,No,50000,87,8,9.5,Excellent
+97,2,0.0,2,1,Basic,Yes,Yes,No,45000,0,1,0.0,At Risk
+90,4,9.7,2,1,Intermediate,Yes,No,No,30000,92,8,9.28,Good
+90,2,10.0,2,1,Intermediate,Yes,Yes,No,30000,75,8,9.72,Excellent
+90,2,9.1,2,3,Intermediate,Yes,Yes,No,18000,100,8,8.55,Good
+90,2,6.0,2,3,Intermediate,Yes,No,No,50000,86,13,6.02,At Risk
+90,2,6.68,2,3,Basic,No,Yes,Yes,25000,12,2,6.68,At Risk
+80,4,7.15,3,3,Basic,Yes,No,Yes,50000,15,2,7.15,Average
+80,1,6.57,1,2,Intermediate,Yes,Yes,Yes,25000,27,3,7.68,Average
+96,3,8.7,2,1,Intermediate,No,No,Yes,20000,87,8,9.35,Good
+99,1,9.38,1,4,Intermediate,Yes,No,No,30000,12,2,9.38,Excellent
+95,2,9.85,2,1,Intermediate,Yes,Yes,No,30000,90,8,9.7,Excellent
+100,2,0.0,1,5,Intermediate,Yes,No,No,40000,0,1,0.0,At Risk
+99,2,10.0,2,2,Basic,Yes,No,No,62488,13,1,10.0,Excellent
+80,2,8.75,1,2,Intermediate,Yes,No,Yes,90000,87,8,9.07,Good
+85,3,4.77,1,2,Basic,Yes,No,No,300000,6,2,4.38,At Risk
+90,2,9.62,1,1,Basic,Yes,No,No,30000,11,2,9.62,Excellent
+95,1,4.92,2,2,Basic,No,Yes,No,40000,85,8,6.92,Average
+98,2,8.77,3,2,Intermediate,Yes,No,No,40000,11,2,8.77,Good
+95,3,9.62,2,2,Basic,No,No,No,20000,11,2,9.62,Excellent
+90,3,10.0,2,5,Basic,Yes,No,No,50000,11,2,10.0,Excellent
+90,4,8.02,1,1,Basic,No,No,No,40000,11,2,8.02,Average
+95,3,7.88,2,2,Intermediate,Yes,Yes,No,50000,84,8,9.12,Good
+80,4,7.75,1,1,Basic,Yes,Yes,Yes,20000,14,2,7.75,Average
+90,1,8.05,3,2,Intermediate,Yes,No,No,13500,95,10,8.68,Good
+70,3,8.8,2,4,Intermediate,Yes,No,No,25000,23,3,9.43,Excellent
+85,2,8.1,1,2,Intermediate,Yes,No,No,80000,23,3,8.3,Good
+90,10,9.85,4,2,Intermediate,No,Yes,Yes,25000,126,11,9.88,Excellent
+80,4,6.25,1,7,Intermediate,No,Yes,No,70000,90,8,7.12,Average
+88,3,6.62,5,3,Basic,No,No,Yes,35000,70,8,7.12,Average
+80,1,7.28,1,6,Intermediate,Yes,No,No,25000,11,2,7.28,Average
+100,5,8.05,1,1,Intermediate,No,No,No,25000,103,22,7.08,Average
+100,1,9.18,1,1,Basic,Yes,Yes,No,62488,75,7,8.7,Good
+99,1,10.0,2,2,Intermediate,Yes,No,No,30000,12,2,10.0,Excellent
+95,3,9.8,1,5,Basic,Yes,Yes,No,35000,12,2,9.8,Excellent
+90,6,7.55,5,6,Advance,No,No,No,40000,123,11,7.62,Average
+100,13,9.43,2,1,Advance,No,No,No,5000,88,8,9.22,Good
+96,2,9.72,1,3,Intermediate,No,Yes,No,90000,35,4,9.25,Good
+90,4,7.65,2,1,Intermediate,No,No,No,40000,140,15,7.15,Average
+57,1,9.15,3,4,Intermediate,No,Yes,Yes,45000,77,8,7.52,Average
+100,3,5.38,4,3,Basic,Yes,No,No,25000,70,8,6.35,At Risk
+85,1,8.48,2,1,Intermediate,Yes,No,No,40000,90,9,8.22,Good
+95,2,9.45,1,2,Intermediate,No,No,No,60000,125,11,8.85,Good
+90,6,8.77,4,4,Intermediate,No,Yes,No,100000,143,16,8.77,Good
+60,1,7.3,1,2,Intermediate,No,No,Yes,62488,58,7,7.25,Average
+90,5,5.32,2,3,Advance,No,Yes,No,40000,87,8,6.12,At Risk
+80,2,8.5,1,2,Intermediate,No,No,Yes,35000,80,7,7.0,Average
+98,3,0.0,1,2,Intermediate,Yes,Yes,No,30000,0,1,0.0,At Risk
+80,2,8.5,3,1,Intermediate,Yes,Yes,Yes,40000,87,8,8.75,Good
+100,1,6.48,1,1,Basic,No,Yes,No,40000,24,4,7.52,Average
+97,2,9.45,1,3,Intermediate,Yes,Yes,No,15000,87,8,9.43,Excellent
+95,2,4.38,2,10,Basic,Yes,No,No,30000,11,2,4.38,At Risk
+98,0,8.5,0,2,Intermediate,No,Yes,Yes,50000,75,7,9.12,Good
+99,7,3.8,1,3,Basic,Yes,No,No,60000,8,3,4.1,At Risk
+90,2,9.15,3,4,Advance,No,Yes,Yes,60000,123,11,8.43,Good
+90,1,8.75,3,2,Intermediate,No,Yes,No,25000,90,8,7.8,Average
+70,2,8.98,2,4,Intermediate,No,Yes,No,50000,123,11,8.88,Good
+100,4,7.57,3,3,Basic,Yes,No,No,7000,23,3,7.57,Average
+90,2,9.85,1,2,Basic,Yes,No,Yes,20000,91,8,9.75,Excellent
+95,3,10.0,3,2,Intermediate,Yes,Yes,No,40000,12,2,10.0,Excellent
+97,3,8.73,3,4,Intermediate,No,No,No,45000,80,7,8.6,Good
+90,1,7.5,1,1,Intermediate,Yes,Yes,Yes,30000,87,8,7.75,Average
+91,3,8.62,6,1,Intermediate,No,Yes,No,19000,117,11,8.35,Good
+90,2,8.95,2,4,Intermediate,No,No,Yes,50000,72,6,8.75,Good
+80,4,7.4,1,3,Advance,No,No,No,100000,96,11,6.52,At Risk
+90,2,8.45,1,2,Intermediate,Yes,Yes,No,40000,24,3,8.82,Good
+95,2,7.8,1,3,Intermediate,Yes,Yes,No,50000,24,3,7.68,Average
+98,3,7.15,2,2,Basic,No,No,No,30000,133,13,7.2,Average
+90,4,7.75,1,1,Basic,No,No,No,45000,88,10,8.18,Good
+95,1,9.8,2,1,Intermediate,Yes,No,No,20000,11,2,9.8,Excellent
+95,3,6.9,2,5,Advance,No,No,No,25000,136,14,6.6,At Risk
+70,2,8.8,1,6,Intermediate,Yes,Yes,Yes,62488,112,10,9.45,Excellent
+90,3,10.0,3,1,Intermediate,Yes,Yes,No,25000,123,11,9.75,Excellent
+90,3,9.6,2,3,Advance,Yes,No,No,62488,90,8,9.45,Excellent
+86,1,8.6,2,6,Intermediate,No,No,No,300000,125,11,8.65,Good
+99,3,7.78,1,2,Basic,No,No,No,62488,105,10,7.5,Average
+100,4,7.45,1,2,Basic,Yes,Yes,No,30000,11,2,7.45,Average
+100,3,8.58,3,6,Basic,Yes,No,No,25000,12,2,8.58,Good
+90,9,9.95,2,3,Advance,Yes,Yes,No,40000,28,2,9.95,Excellent
+90,2,7.7,3,2,Basic,No,Yes,No,50000,89,9,7.88,Average
+100,2,7.75,5,2,Intermediate,No,Yes,Yes,20000,122,11,7.9,Average
+95,3,5.93,1,1,Basic,No,No,No,50000,31,4,6.15,At Risk
+85,4,0.0,2,2,Intermediate,Yes,Yes,No,30000,0,1,0.0,At Risk
+90,1,8.95,1,2,Basic,Yes,No,No,40000,12,2,8.95,Good
+100,4,8.4,4,3,Advance,Yes,Yes,Yes,80000,87,8,8.68,Good
+95,3,0.0,1,2,Advance,Yes,No,No,150000,0,1,0.0,At Risk
+95,2,0.0,2,1,Intermediate,Yes,No,No,45000,0,1,0.0,At Risk
+62,4,0.0,2,2,Basic,Yes,Yes,No,20000,0,1,0.0,At Risk
+90,3,7.25,2,3,Intermediate,No,Yes,Yes,60000,36,5,5.48,At Risk
+90,4,8.3,1,3,Intermediate,No,Yes,No,30000,12,2,8.12,Good
+0,6,8.25,1,2,Intermediate,No,No,No,36000,90,8,7.88,Average
+95,4,9.8,6,3,Intermediate,No,No,No,30000,123,10,9.45,Excellent
+80,1,7.0,4,12,Intermediate,No,No,Yes,20000,115,24,6.25,At Risk
+98,3,8.32,2,3,Intermediate,Yes,Yes,No,20000,12,2,7.25,Average
+87,3,8.85,3,1,Intermediate,Yes,No,No,30000,87,8,8.5,Good
+98,5,9.15,2,2,Intermediate,Yes,No,No,38000,87,8,9.52,Excellent
+80,2,9.45,3,2,Intermediate,No,Yes,No,15000,124,11,7.82,Average
+99,5,9.55,1,3,Intermediate,No,Yes,Yes,15000,89,8,9.52,Excellent
+95,4,10.0,4,1,Intermediate,Yes,Yes,Yes,50000,118,11,9.83,Excellent
+80,4,8.85,2,1,Basic,Yes,Yes,Yes,20000,11,2,8.85,Good
+95,4,6.38,2,2,Basic,Yes,No,No,20000,11,2,6.38,At Risk
+90,3,8.5,2,2,Advance,Yes,No,Yes,12000,136,12,8.5,Good
+90,3,9.12,2,5,Intermediate,No,No,No,30000,126,11,8.98,Good
+94,3,9.05,2,4,Intermediate,Yes,No,No,30000,85,8,9.05,Good
+90,2,9.25,1,1,Basic,No,No,No,30000,101,9,8.62,Good
+95,3,8.75,1,2,Intermediate,Yes,Yes,No,55000,89,7,8.75,Good
+100,5,8.7,4,3,Intermediate,Yes,No,No,50000,11,2,8.7,Good
+100,3,7.52,2,3,Intermediate,No,Yes,No,50000,112,10,7.3,Average
+100,4,9.65,2,3,Intermediate,Yes,Yes,No,60000,129,11,8.9,Good
+98,4,8.45,2,10,Intermediate,Yes,No,No,15000,117,10,9.52,Excellent
+90,5,7.68,1,2,Intermediate,Yes,No,No,500000,75,8,8.55,Good
+96,3,8.98,3,5,Intermediate,Yes,No,No,20000,119,11,8.9,Good
+90,2,6.48,4,6,Intermediate,No,Yes,No,50000,130,11,7.65,Average
+99,2,8.25,0,2,Intermediate,No,No,No,15000,130,11,8.1,Average
+99,4,9.3,2,10,Intermediate,Yes,Yes,No,62488,127,11,9.45,Excellent
+100,3,9.75,1,2,Basic,Yes,No,No,40000,11,1,9.75,Excellent
+75,2,6.38,1,5,Basic,No,Yes,No,20000,120,13,6.62,At Risk
+85,4,7.5,3,2,Basic,Yes,No,No,20000,36,4,7.0,Average
+80,4,5.0,1,2,Basic,Yes,No,No,25000,24,4,6.48,At Risk
+95,5,9.9,4,2,Intermediate,Yes,No,Yes,200000,135,11,9.75,Excellent
+80,2,9.25,1,1,Intermediate,Yes,No,No,25000,10,2,9.25,Good
+90,5,8.25,3,7,Basic,No,No,No,35000,11,1,8.25,Good
+95,5,8.0,2,2,Intermediate,No,Yes,Yes,62488,90,7,8.77,Good
+90,4,8.92,4,3,Intermediate,Yes,No,No,35000,23,3,9.18,Good
+100,3,8.43,1,1,Intermediate,No,Yes,No,40000,140,11,7.78,Average
+97,4,7.92,2,1,Advance,Yes,Yes,No,30000,20,3,7.12,Average
+90,1,8.75,1,1,Basic,No,No,No,10000,11,1,8.62,Good
+90,4,9.45,3,1,Basic,No,No,No,25000,28,1,9.45,Excellent
+87,2,9.75,3,1,Intermediate,Yes,Yes,Yes,40000,128,10,8.98,Good
+50,4,7.35,1,4,Intermediate,No,No,No,62488,23,3,6.25,At Risk
+80,3,7.22,2,5,Basic,Yes,No,No,20000,65,5,7.0,Average
+90,4,4.5,1,2,Intermediate,No,No,No,20000,23,4,6.4,At Risk
+85,4,6.95,4,3,Intermediate,No,No,No,30000,78,8,9.38,Excellent
+100,1,3.62,4,2,Basic,No,No,No,30000,50,6,5.95,At Risk
+100,5,6.12,2,2,Intermediate,No,Yes,No,34000,116,10,8.85,Good
+80,6,3.62,1,4,Advance,Yes,Yes,No,35000,116,10,6.12,At Risk
+100,3,5.0,2,7,Intermediate,No,No,No,35000,78,6,7.98,Average
+100,1,7.22,2,8,Advance,Yes,No,No,36000,140,11,9.98,Excellent
+70,2,7.2,1,8,Intermediate,No,No,No,36000,116,10,9.38,Excellent
+60,3,4.68,2,7,Basic,No,Yes,No,37000,101,7,7.45,Average
+54,1,6.1,3,3,Advance,No,Yes,No,39000,127,9,8.82,Good
+90,4,7.0,1,2,Intermediate,No,No,Yes,40000,126,10,9.12,Good
+100,6,5.28,2,2,Intermediate,No,No,No,40000,103,7,8.68,Good
+87,4,5.93,2,3,Advance,No,No,No,41000,67,5,8.73,Good
+87,3,6.88,2,3,Intermediate,No,No,No,44000,116,9,9.5,Excellent
+100,3,4.95,3,4,Intermediate,No,No,No,44000,117,9,7.28,Average
+100,2,6.6,2,3,Intermediate,No,Yes,No,44000,136,11,9.25,Good
+77,6,4.42,6,11,Intermediate,No,Yes,No,45000,133,9,6.65,At Risk
+95,4,5.48,1,7,Intermediate,No,Yes,No,45000,42,5,6.92,Average
+70,5,5.48,3,7,Advance,Yes,Yes,No,45000,63,6,7.98,Average
+86,3,4.95,2,9,Intermediate,No,No,Yes,45000,119,8,7.45,Average
+78,4,4.58,4,2,Intermediate,No,Yes,No,45000,97,9,7.25,Average
+100,3,4.68,2,9,Intermediate,No,No,No,46000,139,9,7.05,Average
+68,1,6.62,2,3,Intermediate,No,No,No,49000,136,11,9.28,Good
+90,6,5.48,5,4,Advance,Yes,No,No,50000,122,11,8.62,Good
+100,3,6.25,1,4,Intermediate,Yes,No,No,50000,46,4,8.5,Good
+100,2,7.05,4,3,Intermediate,No,No,No,50000,136,11,9.62,Excellent
+50,2,3.35,2,2,Basic,No,No,No,50000,98,8,6.7,At Risk
+78,1,6.7,2,4,Basic,No,No,No,50000,80,5,9.48,Excellent
+80,2,4.92,1,1,Intermediate,No,Yes,no,52000,79,10,7.45,Average
+100,5,6.9,4,3,Advance,Yes,No,No,52000,127,9,9.65,Excellent
+45,4,4.3,2,7,Advance,No,Yes,No,54000,140,10,6.98,Average
+100,2,6.55,4,2,Basic,No,Yes,No,55000,136,10,9.38,Excellent
+87,2,3.78,4,2,Advance,No,No,No,55000,99,7,6.48,At Risk
+95,2,3.62,2,2,Intermediate,No,No,No,55000,65,5,6.32,At Risk
+100,2,5.4,2,4,Intermediate,No,No,No,57000,66,5,8.1,Average
+100,2,6.4,2,2,Intermediate,No,Yes,No,58000,65,6,9.05,Good
+100,1,4.92,3,7,Advance,Yes,No,No,59000,136,11,7.75,Average
+90,2,5.82,1,3,Intermediate,No,Yes,No,60000,32,7,8.28,Good
+100,2,4.0,2,3,Intermediate,No,No,No,60000,136,11,6.7,At Risk
+80,4,5.28,3,6,Intermediate,No,Yes,No,60000,97,7,8.05,Average
+100,3,2.97,2,7,Basic,No,Yes,No,60000,103,7,5.4,At Risk
+100,4,6.62,2,5,Advance,No,No,No,61000,121,9,9.45,Excellent
+100,2,6.68,1,2,Intermediate,No,Yes,No,61000,135,10,9.25,Good
+46,3,6.1,2,3,Intermediate,No,No,No,64000,144,11,8.77,Good
+75,3,4.12,1,3,Advance,No,Yes,No,65000,143,11,6.7,At Risk
+78,2,6.35,2,3,Intermediate,No,Yes,No,65000,78,10,9.02,Good
+100,2,6.25,2,2,Advance,No,Yes,No,65000,136,11,9.02,Good
+100,4,5.18,2,8,Intermediate,No,Yes,No,66000,84,6,8.48,Good
+100,4,4.42,1,6,Advance,No,No,No,66000,119,8,6.6,At Risk
+90,3,5.28,2,5,Intermediate,Yes,No,No,66000,102,7,8.02,Average
+46,2,5.82,4,2,Intermediate,No,Yes,No,66000,63,5,8.52,Good
+100,3,6.92,4,3,Basic,No,Yes,No,66000,58,5,9.6,Excellent
+100,4,7.18,3,2,Advance,Yes,No,No,67000,136,11,9.95,Excellent
+100,3,5.48,2,7,Intermediate,No,No,No,68000,116,10,8.58,Good
+100,2,5.28,2,8,Advance,No,No,No,68000,132,10,8.48,Good
+51,1,6.28,4,2,Intermediate,No,Yes,Yes,68000,136,11,8.92,Good
+100,3,5.55,2,3,Basic,No,Yes,No,68000,100,9,8.45,Good
+34,2,4.65,3,2,Intermediate,No,No,No,68000,88,8,7.28,Average
+50,1,4.68,1,8,Basic,No,Yes,No,68000,100,9,7.38,Average
+87,5,7.2,2,3,Basic,Yes,No,No,68000,88,8,9.78,Excellent
+99,3,4.77,1,6,Intermediate,No,No,No,70000,123,10,7.75,Average
+100,3,4.53,2,2,Intermediate,No,No,No,70000,101,8,7.25,Average
+56,2,4.3,2,2,Intermediate,No,No,Yes,70000,80,6,7.0,Average
+76,1,3.9,2,3,Intermediate,No,No,No,70000,70,9,6.57,At Risk
+100,1,5.58,2,4,Basic,No,Yes,Yes,70000,98,6,8.48,Good
+100,2,6.68,2,3,Intermediate,No,No,No,70000,70,6,9.35,Good
+63,4,4.12,2,4,Intermediate,No,No,Yes,70000,35,3,7.18,Average
+90,2,6.1,2,6,Advance,No,No,No,71000,23,9,9.7,Excellent
+68,4,3.9,4,3,Intermediate,No,Yes,No,74000,70,6,6.57,At Risk
+80,6,5.52,4,4,Intermediate,No,No,Yes,75000,116,10,8.02,Average
+100,1,6.52,1,3,Intermediate,No,No,No,75000,136,11,9.2,Good
+100,3,6.02,2,2,Basic,No,No,No,76000,116,10,8.75,Good
+100,2,3.92,2,3,Advance,No,Yes,No,76000,100,9,6.65,At Risk
+100,4,6.82,2,2,Advance,Yes,Yes,No,76000,100,9,9.5,Excellent
+100,2,7.18,4,2,Advance,No,No,Yes,76000,100,9,9.83,Excellent
+100,3,3.9,3,3,Intermediate,No,No,No,76000,71,5,6.65,At Risk
+100,3,7.18,3,8,Advance,No,No,Yes,77000,143,6,9.95,Excellent
+89,3,4.47,1,7,Advance,No,No,No,77000,104,8,7.12,Average
+100,7,7.2,2,3,Advance,Yes,No,No,77000,139,10,9.83,Excellent
+100,4,6.95,1,2,Intermediate,No,No,Yes,77000,120,9,9.6,Excellent
+98,1,5.9,3,4,Basic,Yes,Yes,Yes,77000,70,6,7.98,Average
+100,3,5.07,3,4,Intermediate,No,No,No,78000,65,7,7.88,Average
+78,5,7.08,4,1,Basic,Yes,Yes,No,79000,143,11,9.75,Excellent
+100,5,6.1,1,4,Advance,Yes,Yes,No,79000,88,7,9.45,Excellent
+50,5,4.15,3,5,Intermediate,No,No,No,79000,97,7,7.48,Average
+80,6,6.35,2,3,Advance,No,Yes,No,80000,126,10,9.4,Excellent
+99,2,6.98,1,4,Intermediate,Yes,No,No,80000,125,11,8.98,Good
+77,2,3.88,2,6,Basic,No,No,No,80000,144,11,6.68,At Risk
+100,4,3.12,2,2,Advance,No,No,Yes,80000,101,8,6.42,At Risk
+100,4,6.4,2,2,Advance,No,No,no,80000,131,10,9.02,Good
+100,4,6.6,1,3,Intermediate,No,Yes,No,81000,99,8,9.25,Good
+78,3,3.62,2,7,Advance,Yes,Yes,Yes,82000,142,10,6.68,At Risk
+70,3,3.9,3,3,Basic,No,No,Yes,85000,133,10,7.18,Average
+70,6,5.25,5,5,Intermediate,Yes,No,No,85000,86,6,8.43,Good
+60,2,5.25,1,3,Intermediate,No,No,No,85000,77,3,8.2,Good
+100,2,3.85,4,2,Intermediate,No,No,No,86000,137,10,6.6,At Risk
+80,1,5.98,1,2,Basic,No,Yes,Yes,87000,45,10,8.58,Good
+80,4,6.28,3,2,Advance,No,No,No,87000,103,8,9.68,Excellent
+79,2,7.02,2,1,Basic,Yes,Yes,No,87000,143,11,9.72,Excellent
+88,2,6.12,1,2,Advance,No,No,No,88000,117,9,8.85,Good
+100,3,6.65,2,3,Intermediate,No,Yes,Yes,88000,98,8,9.3,Good
+80,6,5.1,1,4,Intermediate,Yes,Yes,Yes,89000,100,9,8.07,Average
+100,4,5.72,2,6,Advance,No,Yes,No,89000,100,8,8.9,Good
+88,4,6.38,3,7,Advance,No,No,No,89000,137,8,9.43,Excellent
+100,4,7.25,3,2,Advance,Yes,Yes,Yes,90000,135,11,9.72,Excellent
+100,3,5.85,2,3,Intermediate,No,Yes,No,90000,143,11,8.55,Good
+100,3,5.2,2,4,Advance,No,No,No,90000,138,10,7.78,Average
+100,3,6.28,3,10,Advance,No,No,No,90000,130,9,8.75,Good
+100,4,5.32,3,8,Intermediate,No,No,No,90000,107,5,8.32,Good
+35,2,3.58,1,2,Intermediate,No,No,No,91000,143,11,6.4,At Risk
+100,2,3.15,1,3,Intermediate,No,Yes,No,93000,59,4,5.82,At Risk
+56,2,3.9,4,3,Advance,No,No,No,95000,130,9,6.5,At Risk
+100,2,4.38,4,1,Basic,No,No,No,98000,137,10,7.02,Average
+100,2,4.4,3,7,Basic,No,Yes,No,100000,144,11,7.18,Average
+100,6,3.35,2,4,Intermediate,No,Yes,No,100000,96,5,6.32,At Risk
+100,5,7.28,3,4,Advance,No,No,No,100000,119,8,9.88,Excellent
+45,2,6.15,4,2,Intermediate,No,Yes,Yes,100000,140,10,8.8,Good
+70,3,4.18,3,7,Intermediate,No,No,No,100000,75,5,7.45,Average
+100,2,6.65,3,2,Intermediate,Yes,Yes,Yes,100000,12,2,6.65,At Risk
+65,1,6.62,2,3,Advance,No,Yes,N,110000,140,10,9.2,Good
+100,2,7.0,4,5,Intermediate,No,No,No,110000,77,6,9.78,Excellent
+100,5,3.65,1,6,Intermediate,No,Yes,No,110000,101,8,6.68,At Risk
+89,2,4.18,4,2,Intermediate,No,No,No,110000,134,10,6.82,At Risk
+62,3,3.38,1,3,Advance,No,Yes,No,114000,77,6,6.45,At Risk
+78,3,6.4,2,2,Advance,No,No,No,115000,88,7,9.15,Good
+100,1,6.68,3,5,Advance,No,No,No,115000,32,3,9.45,Excellent
+41,2,6.4,2,1,Advance,No,Yes,No,116000,68,5,9.02,Good
+86,2,6.68,2,2,Intermediate,No,No,No,117000,140,10,9.38,Excellent
+100,3,6.15,1,2,Basic,No,No,No,120000,89,6,8.88,Good
+83,1,3.6,2,3,Intermediate,No,Yes,No,123000,136,10,6.62,At Risk
+100,3,6.32,4,1,Basic,No,Yes,No,128000,143,11,9.05,Good
+100,2,6.98,3,5,Basic,No,Yes,No,130000,141,11,9.7,Excellent
+100,3,6.88,4,3,Intermediate,Yes,Yes,No,130000,103,9,9.55,Excellent
+100,1,4.2,4,2,Advance,No,Yes,Yes,130000,88,6,6.82,At Risk
+77,4,4.18,4,2,Intermediate,No,No,No,130000,58,5,6.92,Average
+84,2,4.4,4,3,Advance,Yes,No,No,134000,122,10,7.0,Average
+100,4,7.2,2,4,Advance,No,No,No,135000,139,10,9.75,Excellent
+100,2,6.35,2,3,Basic,No,No,No,135000,143,11,9.02,Good
+100,4,4.4,2,1,Advance,No,Yes,No,135000,121,9,7.05,Average
+100,3,6.35,2,2,Intermediate,No,Yes,Yes,135000,97,8,9.1,Good
+100,3,3.85,1,2,Intermediate,No,Yes,No,144000,143,11,6.7,At Risk
+35,2,3.65,2,2,Intermediate,No,Yes,Yes,144000,119,9,6.25,At Risk
+100,6,7.28,4,7,Advance,Yes,No,No,150000,141,11,9.93,Excellent
+100,3,4.5,2,3,Advance,No,Yes,No,155000,116,9,7.22,Average
+100,5,6.95,4,3,Intermediate,Yes,Yes,No,158000,89,8,9.5,Excellent
+67,3,4.12,2,8,Advance,Yes,Yes,No,165000,64,5,6.4,At Risk
+100,2,5.8,2,4,Advance,Yes,Yes,No,170000,113,8,9.68,Excellent
+35,3,3.92,2,1,Advance,No,No,No,170000,143,11,6.57,At Risk
+100,3,7.12,4,3,Intermediate,Yes,Yes,No,190000,100,8,9.83,Excellent
+68,3,6.85,4,1,Intermediate,No,No,No,190000,137,10,9.6,Excellent
+100,3,5.32,3,7,Intermediate,No,Yes,No,235000,107,7,7.57,Average
+100,6,7.28,4,1,Advance,Yes,Yes,No,250000,81,5,9.78,Excellent
+100,3,3.58,1,2,Intermediate,No,No,No,255000,143,11,6.22,At Risk
+86,2,4.95,3,5,Basic,No,No,No,300000,145,11,7.22,Average
+100,1,7.28,1,5,Basic,Yes,No,No,10000,103,9,9.72,Excellent
+95,2,6.25,1,3,Intermediate,Yes,No,No,25000,128,11,8.7,Good
+100,5,7.12,3,5,Intermediate,No,Yes,No,25000,28,2,9.12,Good
+90,5,5.5,2,6,Basic,No,Yes,Yes,28000,60,9,8.75,Good
+99,3,6.2,3,5,Advance,Yes,Yes,No,30000,105,10,8.7,Good
+98,4,7.18,2,3,Intermediate,No,No,No,30000,138,10,9.83,Excellent
+99,2,6.4,2,4,Intermediate,Yes,No,No,30000,54,5,8.38,Good
+100,4,5.78,1,7,Intermediate,No,No,No,30000,109,7,8.62,Good
+100,3,6.12,2,3,Basic,No,No,No,32000,143,11,8.9,Good
+90,4,5.22,2,5,Intermediate,No,Yes,Yes,34000,100,7,8.35,Good
+65,3,6.12,2,3,Intermediate,No,Yes,Yes,37000,144,11,8.88,Good
+72,2,6.68,4,3,Intermediate,No,No,No,37000,143,11,9.43,Excellent
+42,2,4.72,3,3,Advance,No,No,Yes,37000,97,6,7.43,Average
+68,2,6.68,4,3,Basic,No,Yes,No,38000,90,8,9.35,Good
+47,2,6.85,2,2,Intermediate,Yes,No,No,39000,68,5,9.5,Excellent
+90,3,4.03,2,8,Advance,No,No,No,40000,123,10,7.2,Average
+86,4,6.35,4,2,Intermediate,No,No,No,40000,144,11,9.07,Good
+79,2,3.65,2,3,Intermediate,No,No,No,40000,139,10,6.38,At Risk
+100,2,6.62,4,2,Intermediate,Yes,No,No,40000,138,10,9.48,Excellent
+46,3,4.7,2,3,Advance,No,Yes,No,42000,124,9,7.3,Average
+78,2,6.92,1,3,Advance,Yes,Yes,no,42000,77,6,9.5,Excellent
+90,4,4.95,2,6,Intermediate,No,No,No,45000,66,5,7.43,Average
+23,2,4.53,4,3,Basic,No,No,No,45000,72,5,7.2,Average
+55,2,7.18,1,3,Advance,No,No,No,46000,125,9,9.75,Excellent
+100,2,4.4,8,4,Intermediate,No,No,No,46000,27,4,6.68,At Risk
+32,3,5.85,2,2,Intermediate,No,Yes,No,47000,109,7,8.5,Good
+100,5,5.18,1,5,Intermediate,No,No,No,48000,132,9,8.2,Good
+89,2,6.12,4,2,Intermediate,No,No,Yes,48000,132,10,8.77,Good
+68,5,6.65,2,3,Intermediate,No,No,No,48000,135,11,9.48,Excellent
+100,6,6.92,4,2,Intermediate,Yes,No,No,49000,144,11,9.62,Excellent
+100,5,6.57,2,3,Basic,No,No,No,49000,75,6,9.25,Good
+80,3,7.02,2,2,Advance,Yes,Yes,No,50000,135,8,9.48,Excellent
+100,2,6.1,1,3,Intermediate,No,No,No,50000,56,6,8.6,Good
+70,1,6.25,5,5,Advance,No,Yes,No,50000,66,7,8.05,Average
+100,2,6.38,1,6,Advance,No,Yes,No,50000,112,7,9.5,Excellent
+100,3,5.55,2,5,Basic,No,No,No,50000,79,5,8.38,Good
+100,3,6.4,2,3,Basic,No,Yes,No,53000,108,9,9.1,Good
+100,3,4.97,2,7,Intermediate,No,No,No,55000,121,8,7.5,Average
+34,3,3.9,1,2,Intermediate,No,No,No,55000,143,11,6.55,At Risk
+79,4,6.68,2,2,Advance,No,No,No,55000,143,11,9.43,Excellent
+100,4,5.78,2,6,Advance,No,Yes,No,55000,138,9,8.6,Good
+76,2,3.15,4,3,Intermediate,No,Yes,No,56000,143,11,5.93,At Risk
+66,1,3.88,4,4,Basic,No,Yes,No,57000,143,11,6.95,Average
+100,2,6.6,4,2,Advance,No,Yes,No,59000,129,9,9.28,Good
+100,1,6.9,2,2,Advance,No,Yes,No,59000,134,10,9.52,Excellent
+88,4,4.05,1,7,Basic,No,Yes,No,60000,99,8,6.12,At Risk
+80,2,7.2,2,4,Basic,Yes,Yes,No,60000,109,11,9.0,Good
+90,3,6.52,4,6,Intermediate,No,Yes,No,60000,130,5,8.92,Good
+100,1,7.12,2,2,Intermediate,Yes,Yes,No,60000,66,7,9.48,Excellent
+100,5,5.48,1,10,Advance,No,No,No,60000,111,12,9.25,Good
+60,2,4.75,2,4,Intermediate,No,Yes,No,60000,97,7,7.02,Average
+75,5,4.72,3,7,Advance,No,Yes,Yes,60000,117,8,7.7,Average
+100,1,6.92,1,10,Advance,No,No,No,60000,136,10,9.52,Excellent
+95,2,3.5,1,8,Intermediate,No,Yes,Yes,60000,61,6,7.38,Average
+50,5,4.4,1,4,Advance,Yes,No,No,60000,68,6,7.18,Average
+100,5,6.65,1,2,Advance,Yes,No,No,60000,102,7,9.57,Excellent
+35,2,3.9,1,2,Intermediate,No,No,No,62000,107,9,6.55,At Risk
+100,3,7.18,4,3,Intermediate,No,No,No,62000,61,5,9.78,Excellent
+87,4,5.22,3,7,Intermediate,Yes,No,No,64000,129,10,8.07,Average
+86,5,3.9,2,2,Advance,No,Yes,No,64000,120,9,6.65,At Risk
+100,7,6.95,2,3,Intermediate,Yes,No,Yes,65000,138,10,9.72,Excellent
+67,1,6.12,2,2,Intermediate,No,Yes,No,65000,103,9,8.77,Good
+95,3,6.95,1,3,Advance,No,No,No,65000,35,3,9.72,Excellent
+100,5,4.18,2,3,Intermediate,No,No,Yes,66000,143,11,6.82,At Risk
+100,2,3.88,4,9,Advance,No,Yes,No,66000,134,10,6.7,At Risk
+77,2,4.68,2,10,Advance,No,No,No,66000,35,2,7.2,Average
+85,4,3.9,4,2,Advance,No,Yes,No,66000,65,5,6.57,At Risk
+100,2,6.75,1,6,Intermediate,No,No,No,67000,66,7,8.75,Good
+89,2,6.9,4,2,Intermediate,No,No,No,67000,113,9,9.5,Excellent
+68,2,3.62,4,3,Intermediate,No,Yes,No,67000,88,8,6.4,At Risk
+90,5,3.88,2,6,Advance,No,Yes,No,68000,77,8,6.9,Average
+87,2,6.68,4,2,Intermediate,No,No,No,68000,101,9,9.32,Good
+86,2,7.15,1,3,Advance,No,Yes,Yes,68000,119,9,9.75,Excellent
+80,4,5.07,3,2,Intermediate,No,No,Yes,70000,59,6,8.12,Good
+95,4,5.78,2,7,Advance,No,No,No,70000,140,10,9.12,Good
+100,4,6.65,3,3,Advance,Yes,Yes,No,70000,109,8,9.45,Excellent
+100,6,5.28,2,3,Intermediate,No,No,No,70000,87,5,8.15,Good
+100,3,4.18,4,3,Intermediate,No,No,No,70000,77,5,6.75,At Risk
+97,3,6.0,3,5,Advance,Yes,Yes,No,71000,139,11,8.6,Good
+30,3,3.88,1,10,Basic,No,No,No,73000,34,3,7.02,Average
+90,5,6.38,1,9,Intermediate,Yes,Yes,No,73000,72,5,8.98,Good
+87,1,6.12,4,3,Intermediate,No,Yes,No,74000,123,9,8.9,Good
+100,6,6.92,3,2,Advance,Yes,No,No,75000,139,11,9.68,Excellent
+100,3,6.32,2,3,Intermediate,No,Yes,No,75000,95,8,9.0,Good
+43,3,4.12,2,3,Intermediate,No,Yes,Yes,75000,73,6,6.78,At Risk
+70,3,5.8,3,9,Basic,No,No,Yes,77000,46,4,9.2,Good
+76,1,6.52,2,2,Intermediate,No,Yes,No,77000,144,11,9.25,Good
+54,2,3.88,4,3,Intermediate,No,Yes,No,77000,143,11,6.52,At Risk
+100,4,5.58,2,8,Intermediate,No,Yes,No,77000,45,4,9.18,Good
+60,1,6.12,3,3,Advance,No,Yes,No,78000,122,12,8.35,Good
+90,1,5.28,1,3,Intermediate,No,No,Yes,78000,132,11,8.9,Good
+77,3,3.98,1,5,Intermediate,No,No,No,78000,132,10,6.55,At Risk
+100,5,6.4,4,3,Advance,No,Yes,No,78000,143,11,9.18,Good
+100,6,6.9,1,3,Advance,No,Yes,No,78000,97,6,9.43,Excellent
+100,2,6.9,4,3,Intermediate,No,Yes,No,78000,124,9,9.5,Excellent
+100,3,6.52,4,2,Intermediate,No,No,No,79000,98,8,9.25,Good
+100,1,6.88,4,3,Basic,Yes,No,No,79000,143,11,9.65,Excellent
+90,2,4.95,3,3,Basic,Yes,Yes,No,80000,125,10,7.78,Average
+100,6,6.92,3,3,Advance,Yes,No,No,80000,125,9,9.68,Excellent
+78,2,4.47,2,5,Intermediate,No,Yes,No,80000,71,5,7.05,Average
+100,3,4.7,2,2,Intermediate,No,No,No,80000,74,6,7.28,Average
+71,3,5.95,1,7,Intermediate,No,Yes,Yes,81000,109,8,8.73,Good
+100,4,5.2,1,5,Intermediate,No,No,No,83000,113,9,8.02,Average
+70,5,4.72,1,7,Intermediate,No,No,No,86000,56,4,8.5,Good
+31,2,3.02,1,5,Advance,No,Yes,No,87000,139,6,6.18,At Risk
+60,3,4.53,2,6,Intermediate,No,Yes,No,87000,117,8,7.15,Average
+100,5,6.12,3,8,Advance,No,Yes,Yes,87000,124,8,9.2,Good
+100,2,3.9,2,2,Intermediate,No,Yes,No,88000,143,11,6.65,At Risk
+100,3,4.0,2,3,Advance,No,Yes,No,88000,143,11,6.7,At Risk
+56,2,4.53,2,3,Advance,No,No,No,88000,144,11,7.22,Average
+100,3,4.4,5,2,Intermediate,No,No,No,88000,96,7,7.02,Average
+86,2,3.92,4,2,Basic,No,No,No,89000,135,10,6.62,At Risk
+100,3,5.12,2,5,Advance,No,Yes,No,90000,85,10,8.62,Good
+67,3,5.95,2,1,Advance,No,No,No,90000,130,9,8.68,Good
+100,2,6.68,1,2,Advance,No,Yes,No,90000,93,8,9.32,Good
+100,3,3.9,2,2,Intermediate,No,No,No,90000,71,6,6.68,At Risk
+100,2,4.77,1,3,Advance,No,Yes,No,94000,109,9,7.4,Average
+70,3,4.72,2,2,Intermediate,No,Yes,Yes,95000,113,9,7.95,Average
+100,4,6.9,1,6,Advance,No,No,No,95000,109,7,9.7,Excellent
+100,3,6.9,2,3,Intermediate,No,Yes,No,96000,144,11,9.6,Excellent
+76,5,6.75,1,2,Advance,Yes,Yes,No,97000,78,6,9.68,Excellent
+100,2,6.4,2,3,Intermediate,No,No,No,98000,143,11,9.1,Good
+78,1,4.53,1,2,Intermediate,No,No,No,98000,71,5,7.1,Average
+98,2,6.32,3,8,Basic,No,No,Yes,100000,76,8,8.4,Good
+90,2,6.35,2,7,Basic,No,Yes,No,100000,84,5,8.92,Good
+80,4,6.12,1,4,Intermediate,No,Yes,No,100000,16,6,8.75,Good
+100,8,7.28,4,2,Advance,Yes,No,No,100000,97,8,10.0,Excellent
+54,1,6.68,4,2,Intermediate,No,Yes,No,100000,78,6,9.43,Excellent
+77,5,5.82,2,8,Intermediate,No,No,No,110000,144,11,9.7,Excellent
+100,1,7.18,4,3,Basic,No,Yes,No,110000,140,10,9.78,Excellent
+100,3,5.22,4,9,Advance,No,Yes,No,110000,119,10,8.07,Average
+77,2,4.18,2,3,Intermediate,No,Yes,No,112000,124,9,6.82,At Risk
+45,1,2.88,1,10,Intermediate,No,Yes,No,112000,75,5,5.98,At Risk
+100,2,6.4,4,3,Advance,No,No,No,113000,68,5,9.1,Good
+100,3,4.97,3,3,Basic,No,No,No,120000,88,7,7.35,Average
+100,6,6.95,3,4,Intermediate,Yes,Yes,No,120000,29,2,9.5,Excellent
+100,3,5.52,1,7,Intermediate,No,Yes,No,122000,137,10,8.25,Good
+100,3,3.65,1,3,Advance,No,No,No,122000,143,11,6.28,At Risk
+64,2,6.68,4,2,Intermediate,Yes,No,Yes,127000,136,10,9.45,Excellent
+100,5,5.8,2,7,Intermediate,No,No,No,130000,123,9,9.45,Excellent
+79,4,5.55,3,7,Intermediate,No,Yes,No,133000,59,4,8.52,Good
+80,4,4.7,1,7,Intermediate,No,No,No,140000,29,3,7.43,Average
+73,2,3.62,2,3,Basic,No,No,No,140000,135,10,6.3,At Risk
+87,3,3.85,4,2,Advance,No,Yes,No,144000,121,9,6.55,At Risk
+100,3,6.95,1,3,Intermediate,No,Yes,No,145000,89,8,9.65,Excellent
+80,2,5.25,4,3,Intermediate,No,No,No,150000,139,11,8.52,Good
+100,5,6.42,1,2,Advance,No,No,No,150000,144,11,9.07,Good
+100,2,6.1,1,4,Intermediate,No,Yes,No,155000,68,4,8.98,Good
+78,3,4.18,1,2,Basic,No,No,No,160000,139,10,6.92,Average
+100,3,3.88,1,5,Advance,No,Yes,No,165000,92,6,6.52,At Risk
+100,2,5.85,1,2,Intermediate,No,Yes,Yes,165000,103,9,8.55,Good
+80,2,3.85,2,6,Basic,No,Yes,No,169000,90,7,7.38,Average
+70,4,5.0,2,5,Basic,No,No,No,170000,71,5,7.57,Average
+50,2,3.38,2,10,Intermediate,No,No,No,200000,105,9,6.65,At Risk
+100,6,6.6,4,3,Basic,No,No,No,200000,70,7,8.35,Good
+50,3,4.25,1,8,Intermediate,No,No,No,200000,95,9,7.5,Average
+88,3,7.25,5,7,Intermediate,No,No,No,200000,125,10,9.83,Excellent
+80,5,4.75,3,6,Advance,No,No,No,200000,99,10,7.75,Average
+75,3,5.02,2,9,Intermediate,No,No,No,250000,126,10,7.7,Average
+100,5,5.82,4,2,Advance,Yes,No,No,277000,104,7,9.72,Excellent
+70,6,4.0,3,4,Advance,Yes,No,No,20000,30,7,7.25,Average
+96,4,6.68,3,3,Intermediate,Yes,No,No,30000,140,11,8.5,Good
+95,2,2.62,4,1,Intermediate,No,Yes,No,30000,18,5,7.0,Average
+100,7,3.68,2,3,Advance,No,Yes,No,32000,88,6,6.35,At Risk
+100,2,3.95,3,1,Basic,No,Yes,No,35000,14,5,3.55,At Risk
+90,6,6.12,5,4,Basic,No,Yes,No,35000,40,5,5.98,At Risk
+89,3,4.68,4,2,Advance,No,No,No,35000,136,8,7.0,Average
+70,3,5.82,1,8,Intermediate,No,No,No,37000,128,9,8.68,Good
+100,1,7.25,2,2,Advance,No,No,No,37000,144,11,9.8,Excellent
+60,3,4.45,3,5,Advance,No,No,No,37000,97,6,6.57,At Risk
+100,4,6.92,2,7,Advance,No,No,No,38000,139,11,9.78,Excellent
+100,4,4.95,2,5,Advance,No,No,No,39000,111,7,7.57,Average
+35,5,3.58,2,11,Basic,No,Yes,No,40000,107,11,6.62,At Risk
+100,5,6.92,3,3,Advance,Yes,No,No,42000,129,9,9.9,Excellent
+43,2,7.02,4,3,Advance,Yes,No,No,43000,144,11,9.75,Excellent
+70,3,5.25,2,3,Intermediate,No,No,Yes,45000,137,11,8.0,Average
+67,2,4.68,4,2,Intermediate,No,Yes,No,45000,144,11,7.3,Average
+100,1,6.45,1,7,Intermediate,Yes,Yes,Yes,45000,39,5,9.35,Good
+80,3,4.42,2,7,Intermediate,No,No,No,45000,109,6,7.05,Average
+88,3,5.4,3,7,Intermediate,No,No,No,46000,143,11,8.32,Good
+100,1,6.32,3,2,Advance,Yes,Yes,Yes,50000,132,11,9.52,Excellent
+98,3,6.88,2,3,Advance,No,No,No,50000,18,8,9.1,Good
+70,3,5.02,1,7,Advance,No,Yes,No,50000,131,9,7.88,Average
+76,3,6.92,3,3,Intermediate,Yes,Yes,No,50000,129,9,9.5,Excellent
+80,5,5.1,2,11,Intermediate,No,No,No,51000,143,11,7.9,Average
+55,5,5.02,2,4,Intermediate,Yes,No,No,51000,101,7,7.82,Average
+24,3,4.68,4,3,Basic,No,Yes,No,52000,117,8,7.32,Average
+100,6,5.05,1,3,Advance,Yes,Yes,No,53000,134,10,7.78,Average
+70,3,4.95,2,6,Intermediate,No,Yes,No,53000,105,9,7.43,Average
+100,4,6.4,1,5,Advance,No,Yes,No,55000,132,9,9.48,Excellent
+100,3,3.85,1,2,Intermediate,No,Yes,No,55000,136,11,6.65,At Risk
+100,3,3.9,1,1,Intermediate,No,Yes,No,55000,143,11,6.62,At Risk
+30,3,4.7,1,3,Basic,No,Yes,No,55000,77,6,7.45,Average
+100,1,6.9,2,2,Intermediate,No,No,Yes,55000,136,10,9.5,Excellent
+85,3,3.9,2,2,Intermediate,No,Yes,No,55000,67,4,7.43,Average
+57,1,3.1,1,9,Intermediate,No,Yes,Yes,56000,137,10,5.88,At Risk
+90,5,4.88,2,4,Advance,No,Yes,No,58000,139,10,7.3,Average
+50,1,4.12,2,2,Advance,No,Yes,Yes,59000,139,9,6.75,At Risk
+89,3,2.78,1,8,Intermediate,No,No,No,60000,95,8,5.88,At Risk
+70,1,4.28,2,8,Intermediate,No,No,No,60000,118,9,7.05,Average
+95,4,3.32,5,5,Intermediate,Yes,Yes,No,60000,104,11,7.48,Average
+100,2,6.4,2,3,Intermediate,No,Yes,No,60000,106,9,9.07,Good
+100,4,7.02,2,3,Intermediate,Yes,No,No,60000,51,3,9.93,Excellent
+100,2,6.82,1,1,Advance,Yes,No,No,61000,135,10,9.52,Excellent
+89,7,4.7,1,3,Intermediate,No,No,No,64000,132,6,7.25,Average
+90,2,5.82,3,3,Basic,Yes,Yes,No,65000,43,5,9.2,Good
+100,3,5.55,2,5,Intermediate,No,No,Yes,66000,132,11,8.62,Good
+45,2,3.62,2,3,Advance,No,No,No,66000,117,9,6.32,At Risk
+100,4,4.4,1,3,Intermediate,No,Yes,Yes,66000,62,5,7.05,Average
+100,5,6.65,2,3,Intermediate,Yes,Yes,Yes,67000,58,5,9.48,Excellent
+43,2,6.38,2,2,Intermediate,No,Yes,No,68000,143,11,9.0,Good
+87,4,6.78,4,3,Intermediate,No,No,No,68000,143,11,9.45,Excellent
+88,3,5.55,3,8,Intermediate,No,No,Yes,68000,87,5,7.98,Average
+80,1,4.88,1,7,Intermediate,No,Yes,No,68000,43,4,7.2,Average
+100,2,6.92,1,1,Intermediate,Yes,No,No,70000,56,6,8.9,Good
+100,7,6.88,2,2,Advance,Yes,Yes,No,70000,125,8,9.83,Excellent
+100,6,6.52,6,6,Intermediate,Yes,No,No,70000,35,6,9.45,Excellent
+30,6,3.38,1,4,Advance,No,No,No,70000,105,7,6.62,At Risk
+87,1,6.1,1,2,Advance,No,No,No,70000,135,10,8.9,Good
+100,4,3.9,1,2,Advance,No,Yes,Yes,70000,78,6,6.6,At Risk
+100,3,4.4,1,2,Advance,No,No,No,70000,58,5,7.1,Average
+70,5,4.75,2,6,Intermediate,No,Yes,No,71000,89,4,7.82,Average
+100,4,4.97,3,6,Intermediate,No,No,No,71000,79,6,7.62,Average
+56,1,6.08,2,2,Intermediate,No,No,No,71000,107,7,8.88,Good
+91,5,4.18,2,2,Basic,No,No,Yes,74000,137,10,6.85,At Risk
+100,4,6.95,1,2,Intermediate,Yes,No,No,74000,143,11,9.57,Excellent
+100,3,4.53,3,6,Advance,Yes,No,Yes,75000,137,9,7.38,Average
+100,7,7.28,3,2,Advance,Yes,Yes,No,75000,139,11,9.93,Excellent
+100,3,6.62,1,5,Basic,No,No,No,75000,27,2,8.92,Good
+77,4,5.58,2,6,Intermediate,No,No,Yes,76000,145,11,9.12,Good
+86,3,5.32,3,6,Basic,No,No,Yes,77000,98,7,8.2,Good
+100,5,6.65,2,5,Intermediate,Yes,Yes,No,77000,145,11,9.62,Excellent
+100,3,7.18,4,3,Intermediate,No,Yes,No,77000,143,11,9.75,Excellent
+67,2,6.62,3,3,Intermediate,No,Yes,Yes,77000,95,7,9.38,Excellent
+100,2,3.45,2,1,Intermediate,No,Yes,No,77000,134,10,6.28,At Risk
+100,5,5.48,2,12,Intermediate,Yes,No,No,78000,103,11,8.62,Good
+80,3,5.28,3,6,Intermediate,No,No,No,78000,101,8,8.65,Good
+67,1,4.45,4,2,Basic,No,Yes,No,78000,143,11,7.0,Average
+100,3,6.12,2,5,Intermediate,No,No,No,78000,100,7,9.4,Excellent
+100,2,6.68,4,2,Intermediate,No,Yes,No,79000,132,10,9.25,Good
+100,3,6.52,2,2,Basic,Yes,Yes,No,79000,123,9,9.43,Excellent
+80,6,4.03,3,6,Intermediate,Yes,No,No,80000,133,12,7.02,Average
+100,1,7.22,1,5,Basic,No,No,No,80000,102,9,9.72,Excellent
+100,2,4.2,4,3,Basic,No,Yes,No,80000,101,9,6.78,At Risk
+100,1,4.07,2,3,Advance,No,Yes,No,80000,143,11,6.75,At Risk
+95,2,3.9,3,2,Advance,No,No,No,80000,97,7,6.6,At Risk
+100,4,6.88,4,2,Intermediate,No,Yes,No,81000,143,11,9.5,Excellent
+100,6,6.4,3,3,Advance,Yes,No,No,85000,115,7,9.88,Excellent
+100,2,6.4,4,1,Intermediate,No,No,No,86000,143,11,9.15,Good
+89,5,4.4,4,3,Intermediate,No,Yes,No,87000,143,11,7.22,Average
+79,2,7.18,1,3,Intermediate,No,Yes,No,88000,139,10,9.78,Excellent
+50,3,3.9,4,2,Basic,No,Yes,No,88000,88,7,6.57,At Risk
+100,2,6.42,2,4,Intermediate,Yes,Yes,Yes,89000,145,11,9.7,Excellent
+81,4,3.75,2,3,Advance,No,Yes,No,89000,143,11,6.57,At Risk
+100,3,6.38,2,1,Intermediate,No,No,No,89000,135,10,9.0,Good
+100,5,6.4,2,4,Advance,Yes,Yes,No,89000,29,4,9.72,Excellent
+100,6,7.18,1,2,Advance,Yes,Yes,No,90000,143,11,9.85,Excellent
+100,1,6.2,2,5,Advance,No,Yes,No,90000,144,11,9.45,Excellent
+90,1,3.38,1,10,Advance,No,No,No,90000,98,6,6.62,At Risk
+100,5,3.9,2,8,Advance,No,No,No,90000,99,7,7.45,Average
+65,4,4.15,2,4,Intermediate,No,Yes,No,90000,105,8,6.12,At Risk
+100,2,4.65,2,3,Advance,No,No,Yes,93000,60,5,7.28,Average
+100,4,6.92,2,3,Intermediate,No,No,No,95000,30,2,9.57,Excellent
+53,1,7.02,1,3,Intermediate,No,No,No,95000,83,6,9.75,Excellent
+100,2,6.88,2,3,Advance,Yes,Yes,No,96000,120,9,9.52,Excellent
+67,5,3.9,4,3,Advance,No,Yes,No,97000,143,11,6.57,At Risk
+100,2,7.28,1,6,Intermediate,Yes,No,No,97000,91,10,9.95,Excellent
+54,2,3.85,2,2,Advance,No,No,No,97000,68,5,6.57,At Risk
+87,3,4.45,4,3,Intermediate,No,No,No,98000,143,11,7.08,Average
+70,8,7.25,1,10,Advance,Yes,Yes,No,100000,60,4,9.7,Excellent
+56,3,6.68,4,3,Basic,No,Yes,Yes,100000,116,9,9.38,Excellent
+100,4,5.82,1,5,Intermediate,No,No,No,100000,102,8,8.62,Good
+68,3,6.9,4,3,Intermediate,No,Yes,No,110000,123,9,8.9,Good
+60,5,3.08,2,9,Intermediate,No,No,No,110000,89,6,6.9,Average
+55,2,5.88,4,3,Intermediate,No,No,No,116000,135,10,8.7,Good
+76,4,3.35,2,3,Intermediate,No,No,No,117000,103,9,6.2,At Risk
+90,6,5.18,2,3,Intermediate,Yes,No,No,119000,144,11,7.8,Average
+100,4,6.4,1,2,Advance,No,Yes,No,120000,143,11,9.0,Good
+63,3,4.42,2,2,Basic,No,No,No,120000,78,6,7.0,Average
+66,3,6.68,4,3,Basic,No,No,No,120000,78,6,9.43,Excellent
+100,2,4.65,4,3,Basic,No,Yes,No,121000,143,11,7.32,Average
+100,1,4.68,4,3,Intermediate,No,Yes,No,121000,68,5,7.35,Average
+80,2,3.05,2,9,Intermediate,No,No,Yes,130000,107,7,6.95,Average
+100,3,3.5,4,2,Intermediate,No,Yes,No,130000,77,6,6.35,At Risk
+100,3,4.45,2,1,Intermediate,No,Yes,No,135000,59,5,7.08,Average
+78,4,4.42,4,3,Intermediate,No,No,No,136000,63,5,7.12,Average
+100,5,6.38,1,5,Advance,No,No,Yes,137000,143,11,9.15,Good
+100,1,6.62,1,2,Advance,No,No,Yes,140000,125,9,9.7,Excellent
+35,5,7.02,2,3,Intermediate,Yes,Yes,No,144000,143,11,9.75,Excellent
+100,2,5.85,2,3,Intermediate,No,Yes,No,167000,113,9,8.6,Good
+87,2,5.88,4,3,Advance,No,Yes,No,170000,143,11,8.58,Good
+46,1,6.62,2,2,Basic,No,Yes,No,180000,100,8,9.43,Excellent
+100,4,6.25,2,4,Basic,Yes,Yes,No,200000,18,8,5.55,At Risk
+100,3,3.9,2,2,Basic,No,Yes,No,200000,100,9,6.95,Average
+100,5,3.5,4,3,Intermediate,No,No,No,210000,136,11,6.3,At Risk
+100,3,3.35,1,5,Intermediate,No,Yes,No,250000,88,11,7.2,Average

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Admin — Gradenix</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<script>if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark');</script>
+
+<nav class="navbar">
+  <div class="brand">
+    ⬡ GRADENIX
+    <span class="sub-tag">Admin Panel</span>
+  </div>
+  <div class="nav-actions">
+    <button class="btn-nav theme" onclick="toggleTheme()">◑ THEME</button>
+    <a href="/logout" class="btn-nav logout">↩ LOGOUT</a>
+  </div>
+  <button class="nav-hamburger" id="navHamburger" onclick="toggleNav()" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="nav-actions-mobile" id="navMobile">
+    <button class="btn-nav theme" onclick="toggleTheme()">◑ THEME</button>
+    <a href="/logout" class="btn-nav logout">↩ LOGOUT</a>
+  </div>
+</nav>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  <div class="flash-wrap">
+    {% for category, message in messages %}
+      <div class="flash flash-{{ category }}">{{ message }}</div>
+    {% endfor %}
+  </div>
+{% endwith %}
+
+<div class="dashboard">
+  <div class="page-header">
+    <div class="page-title">Admin<br>Panel</div>
+    <div class="page-sub">Gradenix · User Management</div>
+  </div>
+
+  {% set stat_dict = {} %}
+  {% for row in stats %}{% set _ = stat_dict.update({row[0]: row[1]}) %}{% endfor %}
+  <div class="stat-row">
+    <div class="stat-card"><div class="stat-num">{{ total_users }}</div><div class="stat-lbl">Total Users</div></div>
+    <div class="stat-card"><div class="stat-num">{{ total_preds }}</div><div class="stat-lbl">Predictions</div></div>
+    <div class="stat-card stat-excellent"><div class="stat-num">{{ stat_dict.get('Excellent',0) }}</div><div class="stat-lbl">Excellent</div></div>
+    <div class="stat-card stat-good"><div class="stat-num">{{ stat_dict.get('Good',0) }}</div><div class="stat-lbl">Good</div></div>
+    <div class="stat-card stat-average"><div class="stat-num">{{ stat_dict.get('Average',0) }}</div><div class="stat-lbl">Average</div></div>
+    <div class="stat-card stat-atrisk"><div class="stat-num">{{ stat_dict.get('At Risk',0) }}</div><div class="stat-lbl">At Risk</div></div>
+  </div>
+
+  <!-- Danger Zone -->
+  <div class="card" style="border:1.5px solid var(--danger,#e74c3c);margin-bottom:24px">
+    <div class="card-title" style="color:var(--danger,#e74c3c)"><span class="ch-icon">⚠️</span>Danger Zone</div>
+    <div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center">
+      <div style="flex:1;min-width:200px">
+        <strong>Reset All Predictions</strong>
+        <p style="font-size:13px;color:var(--text-muted);margin:4px 0 0">Permanently deletes every prediction record. Users and accounts are kept intact.</p>
+      </div>
+      <form method="POST" action="/admin/reset_db"
+            onsubmit="return confirm('⚠️ This will permanently delete ALL prediction records. This cannot be undone. Continue?')">
+        <button type="submit" class="btn btn-danger" style="white-space:nowrap">🗑 RESET DATABASE</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="grid-2">
+
+    <!-- Add User -->
+    <div class="card">
+      <div class="card-title"><span class="ch-icon">➕</span>Add New User</div>
+      <form method="POST" action="/admin/add_user">
+        <div class="form-group" style="margin-bottom:14px">
+          <label>Full Name</label>
+          <input type="text" name="full_name" placeholder="Full Name">
+        </div>
+        <div class="form-group" style="margin-bottom:14px">
+          <label>Username *</label>
+          <input type="text" name="username" required placeholder="Username">
+        </div>
+        <div class="form-group" style="margin-bottom:14px">
+          <label>Password *</label>
+          <input type="password" name="password" required placeholder="Password">
+        </div>
+        <div class="form-group" style="margin-bottom:20px">
+          <label>Role</label>
+          <select name="role" class="form-select">
+            <option value="student">Student</option>
+            <option value="teacher">Teacher</option>
+            <option value="admin">Admin</option>
+          </select>
+        </div>
+        <button type="submit" class="btn btn-brand" style="width:100%;justify-content:center;padding:14px">
+          ➕ ADD USER
+        </button>
+      </form>
+    </div>
+
+    <!-- User List -->
+    <div class="card">
+      <div class="card-title"><span class="ch-icon">👤</span>All Users ({{ users|length }})</div>
+      <div style="overflow-x:auto">
+        <table>
+          <thead>
+            <tr><th>#</th><th>Username</th><th>Full Name</th><th>Role</th><th>Action</th></tr>
+          </thead>
+          <tbody>
+            {% for u in users %}
+            <tr>
+              <td style="color:var(--text-muted);font-size:11px">{{ loop.index }}</td>
+              <td><strong>{{ u[1] }}</strong></td>
+              <td>{{ u[3] or '—' }}</td>
+              <td><span class="role-badge {{ u[2] }}">{{ u[2] }}</span></td>
+              <td>
+                {% if u[0] != current_user.id %}
+                <form method="POST" action="/admin/delete_user/{{ u[0] }}"
+                      onsubmit="return confirm('Delete user {{ u[1] }}?')">
+                  <button type="submit" class="btn btn-danger btn-sm">✕ DEL</button>
+                </form>
+                {% else %}
+                <span style="font-size:11px;color:var(--text-muted)">You</span>
+                {% endif %}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+
+function toggleNav(){
+  var h = document.getElementById('navHamburger');
+  var m = document.getElementById('navMobile');
+  h.classList.toggle('open');
+  m.classList.toggle('open');
+}
+function toggleTheme(){
+  document.body.classList.toggle('dark');
+  localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+</script>
+</body>
+</html>

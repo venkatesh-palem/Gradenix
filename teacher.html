@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Teacher — Gradenix</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<script>if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark');</script>
+
+<nav class="navbar">
+  <div class="brand">
+    ⬡ GRADENIX
+    <span class="sub-tag">Teacher View</span>
+  </div>
+  <div class="nav-actions">
+    <button class="btn-nav theme" onclick="toggleTheme()">◑ THEME</button>
+    <a href="/logout" class="btn-nav logout">↩ LOGOUT</a>
+  </div>
+  <button class="nav-hamburger" id="navHamburger" onclick="toggleNav()" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="nav-actions-mobile" id="navMobile">
+    <button class="btn-nav theme" onclick="toggleTheme()">◑ THEME</button>
+    <a href="/logout" class="btn-nav logout">↩ LOGOUT</a>
+  </div>
+</nav>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  <div class="flash-wrap">
+    {% for category, message in messages %}
+      <div class="flash flash-{{ category }}">{{ message }}</div>
+    {% endfor %}
+  </div>
+{% endwith %}
+
+<div class="dashboard">
+  <div class="page-header">
+    <div class="page-title">Student<br>Overview</div>
+    <div class="page-sub">Gradenix · Teacher Dashboard</div>
+  </div>
+
+  {% set stat_dict = {} %}
+  {% for row in stats %}{% set _ = stat_dict.update({row[0]: row[1]}) %}{% endfor %}
+  <div class="stat-row">
+    <div class="stat-card"><div class="stat-num">{{ total }}</div><div class="stat-lbl">Total Predictions</div></div>
+    <div class="stat-card stat-excellent"><div class="stat-num">{{ stat_dict.get('Excellent',0) }}</div><div class="stat-lbl">Excellent</div></div>
+    <div class="stat-card stat-good"><div class="stat-num">{{ stat_dict.get('Good',0) }}</div><div class="stat-lbl">Good</div></div>
+    <div class="stat-card stat-average"><div class="stat-num">{{ stat_dict.get('Average',0) }}</div><div class="stat-lbl">Average</div></div>
+    <div class="stat-card stat-atrisk"><div class="stat-num">{{ stat_dict.get('At Risk',0) }}</div><div class="stat-lbl">At Risk</div></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title"><span class="ch-icon">👥</span>All Student Predictions</div>
+    {% if students %}
+    <div style="overflow-x:auto">
+      <table>
+        <thead>
+          <tr><th>Username</th><th>Full Name</th><th>Result</th><th>Confidence</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          {% set cls_map = {'Excellent':'excellent','Good':'good','Average':'average','At Risk':'at-risk'} %}
+          {% for s in students %}
+          <tr>
+            <td><strong>{{ s[0] }}</strong></td>
+            <td>{{ s[1] or '—' }}</td>
+            <td><span class="mini-badge {{ cls_map.get(s[2],'average') }}">{{ s[2] }}</span></td>
+            <td><strong>{{ s[3] }}%</strong></td>
+            <td style="font-size:11px;color:var(--text-muted)">{{ s[4][:16] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% else %}
+    <div class="empty-state">
+      <div class="empty-icon">◎</div>
+      <div class="empty-text">No predictions yet.<br>Students need to submit their details first.</div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<script>
+
+function toggleNav(){
+  var h = document.getElementById('navHamburger');
+  var m = document.getElementById('navMobile');
+  h.classList.toggle('open');
+  m.classList.toggle('open');
+}
+function toggleTheme(){
+  document.body.classList.toggle('dark');
+  localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+</script>
+</body>
+</html>
